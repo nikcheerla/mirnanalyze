@@ -1,0 +1,23 @@
+CHANGES for revised archive nationwidechildrens.org_CESC.bio.Level_2.0.44.0 compared to archive nationwidechildrens.org_CESC.bio.Level_2.0.43.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_clinical_cqcf_cesc.txt	R
+nationwidechildrens.org_clinical_drug_cesc.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_cesc.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_nte_cesc.txt	R
+nationwidechildrens.org_clinical_patient_cesc.txt	R
+nationwidechildrens.org_clinical_radiation_cesc.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

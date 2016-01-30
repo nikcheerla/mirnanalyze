@@ -1,0 +1,4 @@
+10ab162297a88d1fa519c3a3fab82e22 UCS.miRseq_mature_RPM.txt
+7c897c2167f77748644493434066ae04 stdout.txt
+d41d8cd98f00b204e9800998ecf8427e stderr.txt
+882593078268085e537173e15689fdb6 UCS.miRseq_mature_RPM_log2.txt

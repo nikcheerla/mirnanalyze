@@ -1,0 +1,4 @@
+849c59ea529aa1c92f1882c866a7572e LUSC.miRseq_mature_RPM_log2.txt
+7c897c2167f77748644493434066ae04 stdout.txt
+89a20c4d133f0054d39350696a2562c5 LUSC.miRseq_mature_RPM.txt
+d41d8cd98f00b204e9800998ecf8427e stderr.txt

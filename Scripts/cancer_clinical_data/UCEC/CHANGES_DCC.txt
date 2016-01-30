@@ -1,0 +1,28 @@
+CHANGES for revised archive nationwidechildrens.org_UCEC.bio.Level_2.0.30.0 compared to archive nationwidechildrens.org_UCEC.bio.Level_2.0.29.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_biospecimen_cqcf_ucec.txt	R
+nationwidechildrens.org_biospecimen_normal_control_ucec.txt	R
+nationwidechildrens.org_biospecimen_tumor_sample_ucec.txt	R
+nationwidechildrens.org_clinical_drug_ucec.txt	R
+nationwidechildrens.org_clinical_follow_up_v1.7_ucec.txt	R
+nationwidechildrens.org_clinical_follow_up_v2.0_ucec.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_nte_ucec.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_ucec.txt	R
+nationwidechildrens.org_clinical_omf_v4.0_ucec.txt	R
+nationwidechildrens.org_clinical_patient_ucec.txt	R
+nationwidechildrens.org_clinical_radiation_ucec.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

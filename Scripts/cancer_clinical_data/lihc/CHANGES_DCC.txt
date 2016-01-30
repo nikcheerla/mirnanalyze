@@ -1,0 +1,24 @@
+CHANGES for revised archive nationwidechildrens.org_LIHC.bio.Level_2.0.46.0 compared to archive nationwidechildrens.org_LIHC.bio.Level_2.0.45.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_biospecimen_cqcf_lihc.txt	R
+nationwidechildrens.org_biospecimen_normal_control_lihc.txt	R
+nationwidechildrens.org_biospecimen_tumor_sample_lihc.txt	R
+nationwidechildrens.org_clinical_cqcf_lihc.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_lihc.txt	R
+nationwidechildrens.org_clinical_nte_lihc.txt	R
+nationwidechildrens.org_clinical_patient_lihc.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

@@ -1,0 +1,2 @@
+"x"
+"1" "The number of patients is less than 20"

@@ -1,0 +1,4 @@
+535913ec1f1f37bc0a16c2eb59664ee3 STES.miRseq_mature_RPM_log2.txt
+656d3d1a3f020bdf73410f98d0b7ee94 STES.miRseq_mature_RPM.txt
+7c897c2167f77748644493434066ae04 stdout.txt
+d41d8cd98f00b204e9800998ecf8427e stderr.txt

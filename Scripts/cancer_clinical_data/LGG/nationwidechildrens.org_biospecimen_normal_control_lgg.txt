@@ -1,0 +1,532 @@
+bcr_patient_uuid	bcr_patient_barcode	bcr_sample_uuid	days_to_normal_sample_procurement	method_of_normal_sample_procurement	ncedna_dna_conc	ncedna_dna_qm	ncedna_dna_qty	ncedna_dna_vol	normal_control_type	normal_tissue_anatomic_site	normal_tissue_proximity	vial_number
+	CDE_ID:2673794		CDE_ID:3288496	CDE_ID:3288147	CDE_ID:3288187	CDE_ID:3288186	CDE_ID:3288185	CDE_ID:3288188	CDE_ID:3081936			
+42fe260f-520b-4fac-8c09-d2b31aed59fb	TCGA-CS-6290	51465f70-ff73-4028-90e4-92583eecfb27	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+92a7c445-2217-400a-bdcd-df41502416b6	TCGA-DU-5847	1047fe18-df48-4043-9d62-3b0fb0f6a1d0	0	Blood Draw	0.269	Stratagene kit 200600	20	74.3	[Not Available]	[Not Available]	[Not Available]	1
+5af8ada5-86b5-4832-8a8e-e975ecca5515	TCGA-DU-5849	4d468a8e-04da-4c51-af1a-c0dc10e67f8d	0	Blood Draw	0.171	Stratagene kit 200600	20	117.0	[Not Available]	[Not Available]	[Not Available]	1
+9ed5af0e-c87f-46ff-81e7-9d3041b4034e	TCGA-DU-5852	5a82bd3e-7e2f-4d14-95f8-b85c684a3b7d	0	Blood Draw	0.160	Stratagene kit 200600	20	125	[Not Available]	[Not Available]	[Not Available]	1
+b95afb1a-a1df-4d85-ad34-191928e28a77	TCGA-DU-5854	8ac25071-2bc5-437a-ab26-1fedbc3747cb	20	Blood Draw	0.267	Stratagene kit 200600	20	74.9	[Not Available]	[Not Available]	[Not Available]	1
+e326c1dd-2ef8-431b-a657-440aa3f35ff3	TCGA-DU-5855	8fcf7939-b8d2-4dc3-aa9c-7b344d7bd270	0	Blood Draw	0.166	Stratagene kit 200600	20	120.5	[Not Available]	[Not Available]	[Not Available]	1
+eb42625e-fbbb-4bee-bbe9-315b3ca2138a	TCGA-DU-5870	f553f849-0ee8-4471-8c9b-9f1982d4288a	-8	Blood Draw	0.173	Stratagene kit 200600	20	115.6	[Not Available]	[Not Available]	[Not Available]	1
+ddfd76dc-15d6-4efc-85ea-31674161ebf3	TCGA-DU-5871	2ebef950-54c8-4635-bfe7-d3af0ca692bf	0	Blood Draw	0.643	Stratagene kit 200600	20	31.1	[Not Available]	[Not Available]	[Not Available]	1
+48607130-c09a-491d-882f-7d2591d13182	TCGA-DU-5872	274be2b2-3354-4e96-b871-f2722d7de04d	0	Blood Draw	0.178	Stratagene kit 200600	20	112.4	[Not Available]	[Not Available]	[Not Available]	1
+1cc53ade-73c0-492b-a7dc-328269fd0e66	TCGA-DU-5874	89940af5-5a63-4b89-8461-a906ec04ed7d	0	Blood Draw	0.133	Stratagene kit 200600	20	150.4	[Not Available]	[Not Available]	[Not Available]	1
+fcd9e1c4-bddb-4856-844c-03df48fba499	TCGA-DU-6392	24654746-1ea4-4fdb-83b8-5096f86c5509	-7	Blood Draw	0.555	Stratagened kit -200600	20	36.04	[Not Available]	[Not Available]	[Not Available]	1
+1937318f-a1bb-4f48-b8ec-4aadd406e52a	TCGA-DU-6393	877ec5a7-648c-4763-95ab-5c123ca70115	0	Blood Draw	0.143	Stratagene kit-200600	20	139.86	[Not Available]	[Not Available]	[Not Available]	1
+42cc9620-98fb-4164-a3b2-28d084ca5a03	TCGA-DU-6394	75c05350-c666-48c9-9cf7-161d121174fe	0	Blood Draw	0.763	Stratagene kit-200600	20	26.21	[Not Available]	[Not Available]	[Not Available]	1
+6355cade-7b3a-43a8-9f1f-8e7bc45755a8	TCGA-DU-6395	52d13c0d-18e5-4e0c-b831-2a225d7f37e9	894	Blood Draw	0.903	Stratagene kit-200600	20	22.15	[Not Available]	[Not Available]	[Not Available]	1
+152eaa99-05f5-4d30-bfb1-494a9a900e49	TCGA-DU-6396	bd881448-6e6e-43b8-b04f-127e5863ce40	0	Blood Draw	1.421	Stratagene kit-200600	20	14.07	[Not Available]	[Not Available]	[Not Available]	1
+e695b780-17f4-4e71-9120-7c6bcafaa3a7	TCGA-DU-6397	73d63d98-a050-4194-8430-68c36ce2a381	837	Blood Draw	0.329	Stratagene kit-200600	20	60.79	[Not Available]	[Not Available]	[Not Available]	1
+4ef429be-c345-4258-9b42-b56e215e1a2c	TCGA-DU-6399	a552ce70-38b2-4ed3-9db8-b61eb91f537e	1	Blood Draw	0.648	Stratagene kit-200600	20	30.86	[Not Available]	[Not Available]	[Not Available]	1
+178ab87c-0582-4b02-bf6b-3a4c59a5ee1b	TCGA-DU-6400	573ce4af-966f-4744-8c39-17455b210cb8	0	Blood Draw	0.446	Stratagene kit-200600	20	44.84	[Not Available]	[Not Available]	[Not Available]	1
+97cb8701-7d63-4142-b404-006fbb3ecb0b	TCGA-DU-6401	24a25702-2c3c-4ab0-b1e7-c47044767e4a	0	Blood Draw	0.448	Stratagene kit-200600	20	44.64	[Not Available]	[Not Available]	[Not Available]	1
+152f028e-ee29-40e0-8e75-5cafffacbd45	TCGA-DU-6402	3c6f9d48-f638-4d28-80ac-0a6a276adf87	0	Blood Draw	1.15	Stratagene kit- 200600	20	17.39	[Not Available]	[Not Available]	[Not Available]	1
+8daa29c0-f652-4130-a004-5183bbe30c63	TCGA-DU-6403	696eae07-1fb0-4f51-b026-28b8684c2f30	10	Blood Draw	0.242	Stratagene kit 200600	20	82.64	[Not Available]	[Not Available]	[Not Available]	1
+c0d47e0f-4918-4e06-9db6-201671b1259c	TCGA-DU-6404	4035393d-d331-4d0c-95c7-5b00acd26035	0	Blood Draw	0.265	Stratagene kit-200600	20	75.47	[Not Available]	[Not Available]	[Not Available]	1
+9239a22e-80b1-49a2-b0d5-cbab7e415254	TCGA-DU-6405	d2389fbb-2fca-4a1b-8992-3db9b9bf6fbb	0	Blood Draw	0.044	Stratagene kit-200600	20	454.55	[Not Available]	[Not Available]	[Not Available]	1
+c13a429c-99ea-478c-ae95-fa499b9ea9fa	TCGA-DU-6406	6705ec73-a74a-4dd3-bd69-ce19a5423cf4	0	Blood Draw	0.216	Stratagene kit-200600	20	40.0	[Not Available]	[Not Available]	[Not Available]	1
+70939245-41e0-4845-a473-5fef719b9828	TCGA-DU-6407	8469a6ea-9610-4b3d-8caa-48e503b0fd2e	0	Blood Draw	0.343	Stratagene kit-200600	20	58.31	[Not Available]	[Not Available]	[Not Available]	1
+14375753-a69f-41e0-b910-2bb8e84cc43a	TCGA-DU-6408	bd47e91e-1d28-4890-8596-6493ea7c8639	1152	Blood Draw	0.31	Stratagene kit-200600	20	64.52	[Not Available]	[Not Available]	[Not Available]	1
+68f550ca-3a33-45e4-b1c9-14f99e543263	TCGA-FG-5963	41c11d33-7790-4033-99b4-087f0e87474a	7	Blood Draw	.06375	uv spectroscopy	19.99	313.7	[Not Available]	[Not Available]	[Not Available]	1
+648252da-dd86-48d1-ae75-4257e3142b0b	TCGA-FG-5964	9bf6fb6a-1873-44c8-8baf-225fec4aeb24	0	Blood Draw	.07168	uv spectroscopy	20	279.0	[Not Available]	[Not Available]	[Not Available]	1
+334f715e-08dc-4a29-b8e4-b010b829c478	TCGA-CS-4938	1b19b2ab-f094-4b73-8ab7-e06f91afe729	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+bdfade49-9059-4665-beea-c55117ba6564	TCGA-CS-5397	52b6fb94-357b-4e76-8fb9-202573b5b501	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+3f70c3e3-0131-466f-92aa-0a63ab3d4258	TCGA-CS-6188	f7e1d239-419e-4c2d-a7d1-8f51a7d2ba4d	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c16d9f69-26f9-4ec7-b2d5-ff9f7dacfe0f	TCGA-CS-6665	1b98b990-ed6b-4ec9-96af-9f690caabca6	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+8cba230b-46db-4d35-8123-3879eba32402	TCGA-CS-6666	cfe8db97-d112-44ea-958d-9950be155835	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a5d3f3fb-6541-419d-b47e-720d438f1bff	TCGA-CS-6668	358e6ac9-c2fa-4ec7-9201-fa121a751b3c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+dc5bdd21-b23f-400e-bbe2-4c98a517fc9e	TCGA-CS-6669	4f74077f-6f0a-407f-9270-15f88ef3eb7a	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+60b30a95-3e4c-413a-9de6-16a5bca163c4	TCGA-CS-6670	a4661f88-c2c3-4993-bd8a-189828c75380	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+55c78413-d102-4113-930e-6d842862fe75	TCGA-DU-5851	c1e61d04-2dfe-4bf8-b461-ad418cf535f0	0	Blood Draw	1.36	Stratagene kit 200600	40	29.4	[Not Available]	[Not Available]	[Not Available]	1
+2d42dd0e-be3a-46ae-a635-c6f9c52f9fa2	TCGA-DU-5853	53016c96-fa90-4d32-809c-38538d41c2e8	0	Blood Draw	0.174	Stratagene kit 200600	20	114.9	[Not Available]	[Not Available]	[Not Available]	1
+467a7e6a-8cba-4ef1-8afd-6c8eaccbc3df	TCGA-DU-6410	2212a574-0408-44cc-a59d-5eea7b0407be	0	Blood Draw	1.001	Stratagene kit-200600	20	19.98	[Not Available]	[Not Available]	[Not Available]	1
+cd69d509-a652-4257-a8d3-767296bbb4ec	TCGA-DU-6542	28b425e6-57a6-432d-a995-d6b03d2094e4	28	Blood Draw	63.29	Stratagene kit 200600	20	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a0bc5147-d9b4-41fd-8df3-a241d23722e8	TCGA-E1-5305	ca30bb7e-5171-4c32-9d2e-bbb8dba00832	-2	Blood Draw	1.3	Nano drop	20	15	[Not Available]	[Not Available]	[Not Available]	1
+a6ee311c-0a7b-4f47-86f1-f2164b128f9c	TCGA-E1-5307	011bb79a-079b-4edf-a004-b699ab42f04f	13	Blood Draw	0.75	Nano drop	20	27	[Not Available]	[Not Available]	[Not Available]	1
+84569c1a-6baa-4380-ae3c-707df1be4618	TCGA-E1-5319	b2c67e4f-ba75-4085-a0c4-3732031e976e	-10	Blood Draw	0.825	Nano Drop	20	24	[Not Available]	[Not Available]	[Not Available]	1
+e09f93e1-1649-48fa-9e2e-d13ac6d50b97	TCGA-FG-5962	721a95b0-c450-46a9-8544-97964dbc408a	1	Blood Draw	.2527	uv spectroscopy	19.99	79.1	[Not Available]	[Not Available]	[Not Available]	1
+2cfc07f3-a31c-41a2-a9e3-b708d2421a78	TCGA-FG-5965	1cd7f0e4-4680-470b-b23d-7ff2ff16ea6e	1	Blood Draw	.2837	uv spectroscopy	20	70.5	[Not Available]	[Not Available]	[Not Available]	1
+dadd7428-9e4d-4652-9469-ab521b88d529	TCGA-FG-6688	845a2b47-f2b9-431c-8e95-b2ddcb1f6df0	87	Blood Draw	.2283	uv spectroscopy	20	87.64	[Not Available]	[Not Available]	[Not Available]	1
+8d07b1e8-5d1d-4a43-b616-d29dd58ce5fe	TCGA-FG-6689	bad0094c-de01-4419-9adb-5e8ef0a4d397	16	Blood Draw	.2521	uv spectroscopy	20	79.33	[Not Available]	[Not Available]	[Not Available]	1
+ad202887-88b3-4e0f-a4c3-7e135d4cb258	TCGA-FG-6690	8cbf4ddc-a8cf-4aa2-abb2-e793853e28ef	20	Blood Draw	.0562	uv spectroscopy	20	356	[Not Available]	[Not Available]	[Not Available]	1
+e4d9b696-3311-44e7-9191-fde56c080a00	TCGA-FG-6691	eb350e44-4af0-46fa-b329-30f599b9a953	61	Blood Draw	.3695	uv spectroscopy	20.32	55	[Not Available]	[Not Available]	[Not Available]	1
+5f10cd91-1e03-4016-b35a-8629a1a8fcc9	TCGA-FG-6692	d7ea0c8c-8642-4491-982e-6fc30d6d9237	5	Blood Draw	.1253	uv spectroscopy	20	160	[Not Available]	[Not Available]	[Not Available]	1
+9ee6e821-3af2-42d7-9d14-f0ca455f338c	TCGA-CS-6186	8443aa4f-9650-45f4-921b-927c1f00a31c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+ae081e4a-efa9-4b52-b15e-29085c0612d3	TCGA-CS-6667	1db5742a-e835-4d97-b566-8394eca8c6c9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+215e117c-4d76-463c-8f8a-fd6a28d23929	TCGA-DU-7006	24717d65-d851-4101-a942-18c112c35a7a	0	Blood Draw	1.036	Stratagene kit 200600	20	19.3	[Not Available]	[Not Available]	[Not Available]	1
+8e2dcc00-9f7e-4dee-b24d-43c8b30294c5	TCGA-DU-7007	d801113a-0db4-4c93-960f-6870ab10435f	0	Blood Draw	1.005	stratagene kit 200600	20	19.9	[Not Available]	[Not Available]	[Not Available]	1
+427c40f6-d1bd-49f2-b303-a975793b937e	TCGA-DU-7008	64ea52eb-a005-4d05-bba1-536f0d76a890	0	Blood Draw	0.417	Stratgene Kit 200600	20	48.0	[Not Available]	[Not Available]	[Not Available]	1
+01c4ca12-ac08-41dd-9e4f-bfb0971688a2	TCGA-DU-7009	94ff1a2a-7299-4e13-b956-eb649075afc8	0	Blood Draw	0.764	Stratagene Kit 200600	20	26.2	[Not Available]	[Not Available]	[Not Available]	1
+834e560a-a506-456d-baf2-a206ca058153	TCGA-DU-7010	7820f440-cdba-4f4c-8b1d-a2e089055be7	0	Blood Draw	0.238	stratagene kit 200600	20	84.0	[Not Available]	[Not Available]	[Not Available]	1
+cb598780-9e42-4167-b487-eec90ad4f36f	TCGA-DU-7011	bf1627b9-037b-4815-b2ca-a30767cfaf08	103	Blood Draw	0.246	stratagene kit 200600	20	81.3	[Not Available]	[Not Available]	[Not Available]	1
+c50c984f-316a-4f24-968d-618691c54c3d	TCGA-DU-7012	d0a06307-97c6-49ac-93e1-2f78c8424200	0	Blood Draw	0.247	stratagene kit 200600	20	81.0	[Not Available]	[Not Available]	[Not Available]	1
+d61b5d20-4d6d-4fdc-afe8-4b100b686eda	TCGA-DU-7013	6893f38b-0210-46fe-9a52-6bc29f32407e	0	Blood Draw	0.448	stratagene kit 200600	20	44.6	[Not Available]	[Not Available]	[Not Available]	1
+a776cfd0-db9f-450a-943c-5a9a80a75fb7	TCGA-DU-7014	2c616bd8-6fba-424a-b202-d2efbffaa8de	0	Blood Draw	0.89	Strategene kit 200600	20	22.4	[Not Available]	[Not Available]	[Not Available]	1
+ec82a00f-3909-4781-8ae2-e54cbc1ac7ac	TCGA-DU-7015	4075903f-7c66-4047-9071-a5b099eb128f	0	Blood Draw	0.828	stratagene kit 200600	20	24.2	[Not Available]	[Not Available]	[Not Available]	1
+ec82a00f-3909-4781-8ae2-e54cbc1ac7ac	TCGA-DU-7015	71cf5a77-9ad6-4c8e-9883-397402546ab4	0	Blood Draw	0.177	Stratagene kit #200600	20	113.0	[Not Available]	[Not Available]	[Not Available]	1
+f18dab99-26b0-4727-89a9-7f16bd382356	TCGA-DU-7018	de3ef329-b9b1-4ce3-bc89-9d0ca332b620	0	Blood Draw	0.175	stratagene  kit 200600	20	114.3	[Not Available]	[Not Available]	[Not Available]	1
+1b43ff0c-cf13-4620-b5c7-7abd9129612f	TCGA-DU-7019	5b77454a-902d-4a56-a0e4-351359340ee2	0	Blood Draw	0.441	stratagene kit 200600	20	44.6	[Not Available]	[Not Available]	[Not Available]	1
+e00a9855-c15e-46ef-988f-25ca64ec4717	TCGA-DU-7290	bc285f76-f7ae-4e4a-8d30-3ad400926d14	0	Blood Draw	.0231	Stratagene Kit #200600	20	86.6	[Not Available]	[Not Available]	[Not Available]	1
+145f87a3-5e86-4a87-8e49-b166a2271d02	TCGA-DU-7292	568d1c55-344d-4294-85c5-1ca8356f23eb	0	Blood Draw	1.111	Stratagene Kit#200600	20	18.0	[Not Available]	[Not Available]	[Not Available]	1
+3f6ffb08-32a9-4555-bfd1-243b7f526105	TCGA-DU-7294	8b4922dc-8990-4a9a-892f-ca57ebd6d987	0	Blood Draw	0.986	stratagene Kit#200600	20	20.3	[Not Available]	[Not Available]	[Not Available]	1
+292cf158-dd47-44a1-912b-73626095a0f7	TCGA-DU-7298	b7b81027-1319-4fe3-969b-55a1063143d8	0	Blood Draw	0.376	Stratagene kit #200600	20	54.1	[Not Available]	[Not Available]	[Not Available]	1
+81622da8-9f36-4ea3-b223-d831d8c10f87	TCGA-DU-7299	f4843b8e-878b-44fa-bee0-800799c3cf34	0	Blood Draw	0.497	Stratgene kit #200600	20	40.2	[Not Available]	[Not Available]	[Not Available]	1
+fc3b7596-f515-446f-81db-fed0154ca2c5	TCGA-EZ-7264	314f5f1d-1e33-4883-ab45-db46b1f8ef41	-6	Blood Draw	0.418	nanodrop	15	35.9	[Not Available]	[Not Available]	[Not Available]	1
+f4a1fc14-0d32-4e77-a8a3-fd8fea82188a	TCGA-HT-7467	b20b8ca5-dee7-4569-a938-d6cb597cb81a	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+e6c55ba6-4c8a-4ea4-8dde-74d01915db02	TCGA-HT-7468	f5491d55-e07e-45fe-b0ba-85dcac4e3be3	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+482d4078-7576-48cf-bf7c-29014935fd47	TCGA-HT-7472	7f8d24ab-5e9d-4aff-9b0b-eb2bfad0509e	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+dbfaccb0-e8c0-48e8-9aef-570267574822	TCGA-HT-7473	996fe719-74d2-433b-9e73-76ed2775dde9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+72aa812d-5daa-4bd7-9028-ec541b1f25bd	TCGA-HT-7474	95319b17-fae6-444a-85be-d70bf84c2129	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+41456932-436e-4cdb-bfe8-97d089656786	TCGA-HT-7475	acf7770e-26cf-47c0-a0b5-b16e26fc4f13	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+27d0d3cb-16c0-4ba8-9662-95917f665004	TCGA-HT-7476	0ddb502c-b171-4221-8d42-84c1f81574d8	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4c3e709a-fd52-431c-8be5-3d9b1f80ecd2	TCGA-HT-7478	41749869-c19b-4e30-a3ff-2b75bf466467	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a96fabfa-e830-476a-b2a1-899689570bd9	TCGA-HT-7479	a5c843b5-389a-4fc2-9ec7-34ec93d63cb9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+bff37de3-dc68-4e69-bdfc-8b524dd7774f	TCGA-HT-7481	f44899e6-7fa9-439e-8d5e-2ae0e6299cf0	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+448d3e3b-622c-4e79-bb1d-b5f2e92970e8	TCGA-HT-7482	7e22ffc3-818b-46e9-abf2-5fd0db49efde	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+183dd089-e932-4be2-b252-0e8572e7da4e	TCGA-HT-7483	d379983b-44b1-445e-8112-91d09be83a1b	2737	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+8d06226e-500b-4172-ae96-c674913909e6	TCGA-HT-7485	344940fe-e919-4b07-ae3a-ab5d01dddc9c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+55a67639-ed05-4143-af96-a377bc5489ee	TCGA-HW-7486	d05ef82a-9523-430e-bc5d-b1b66fc463ab	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+42251e02-b687-4bf1-a1b6-e3dd978542e4	TCGA-HW-7487	9e127bda-aca0-4f7f-acd9-860e3b425177	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6957d45e-7ccb-457d-800d-c2a2037f4f01	TCGA-HW-7489	dc41823f-6a90-4d03-b8a2-2df1dce72687	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c3c41fd2-f0d7-4f46-9e18-cce4626538c2	TCGA-HW-7490	3b08b25b-eb59-46d7-b2a7-d75bc98defd3	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a85fdb41-24c1-420d-8905-ec297f018bd9	TCGA-HW-7491	2c6e98a5-3534-4a8d-8181-8629fc426dde	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+debe24c5-e4df-4e80-82f6-8f40395aa9e6	TCGA-HW-7493	4986a1b1-a969-4e19-b14f-9e62ad1ee163	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+49967a57-7c12-46bb-8d71-cebbb17c9935	TCGA-HW-7495	3da04a47-7161-4dc0-8f0d-0e439159bc74	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a144e4e4-2877-4340-a2bf-524adbde8bc8	TCGA-DU-7300	574a4c4a-9fd1-4f65-988e-39780b0a707d	0	Blood Draw	0.079	Stratagene kit #200600	20	253.2	[Not Available]	[Not Available]	[Not Available]	1
+84ae73e4-3b39-4444-9bfb-3fc6057eab32	TCGA-DU-7301	4f6960e9-bfeb-4287-b8b1-6fccf3b3f8d8	2	Blood Draw	0.258	Stratagene kit #200600	20	77.5	[Not Available]	[Not Available]	[Not Available]	1
+5a769292-c3ce-4e18-b821-2bfe0e24978c	TCGA-DU-7302	c23fb91c-5372-478c-b9c6-6bbea42ab228	0	Blood Draw	0.308	Stratagene kit #200600	20	64.9	[Not Available]	[Not Available]	[Not Available]	1
+d61710c1-8ac3-44e3-b567-66288a6ab731	TCGA-DU-7304	6b57fae7-483f-4b20-97da-96cd7dd57b2b	1	Blood Draw	0.085	Strategene kit #200600	20	235.3	[Not Available]	[Not Available]	[Not Available]	1
+c35f36b1-ba3d-4eea-bf5a-c95480202176	TCGA-DU-7306	03d6adf8-2b3b-418c-a94f-2a67e271d30c	0	Blood Draw	0.584	Stratagene kit #200600	20	34.2	[Not Available]	[Not Available]	[Not Available]	1
+ca427acb-034e-42e2-961a-b9d5dc30b741	TCGA-DU-7309	4f9c0d16-45a3-4c6d-ad90-decdbde18a32	0	Blood Draw	0.056	Stratagene kit #200600	20	357.1	[Not Available]	[Not Available]	[Not Available]	1
+2d860614-b772-46e2-b1cd-43bb3ead7255	TCGA-FG-7634	ffb7737d-41d6-499a-b802-422b8d107586	0	Blood Draw	.3835	Pico200 Picodrop	20	52.15	[Not Available]	[Not Available]	[Not Available]	1
+b342e980-8383-4f1b-bf57-4098c37a536c	TCGA-FG-7636	3e8db019-9057-49bd-8b3d-6b51a370c15f	6	Blood Draw	.127	pico200 Picodrop	20	157.5	[Not Available]	[Not Available]	[Not Available]	1
+c40ab957-fe46-43b1-992d-b4e2040a3f57	TCGA-FG-7637	57643683-10aa-4dd2-9731-4868e520cadc	11	Blood Draw	.8765	Pico200 Picodrop	20	22.82	[Not Available]	[Not Available]	[Not Available]	1
+1f54d21e-752f-496d-8453-4b9b8738cbce	TCGA-FG-7638	7fe3428a-d384-4bf2-92f6-acd863fe42a3	38	Blood Draw	.2885	pico200 Picodrop	20	69.3	[Not Available]	[Not Available]	[Not Available]	1
+b6f13250-31b3-46ad-b514-5a684f1094a9	TCGA-FG-7643	c3c1221b-21b1-4975-b566-e562fe12521b	-14	Blood Draw	.7455	Pico200 Picodrop	20	26.83	[Not Available]	[Not Available]	[Not Available]	1
+5b9d7565-a933-449d-8ffa-ec5f82db2e77	TCGA-FN-7833	500d7019-6256-4698-baac-6f29e0b85ad7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+fee2114e-f723-4374-91f8-f1dcc6b3eaee	TCGA-HT-7470	1077240b-2550-46d2-968c-422ee65e2220	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+325138ab-2947-4131-b40e-971f024723cc	TCGA-HT-7480	a97619a1-da2d-402f-881f-039d58fae8fe	1943	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+e7fdf164-a85d-4ff5-9676-d2215ca35403	TCGA-HT-7601	6d717d58-096b-4e45-b0b0-a0069b72028d	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+799e9106-e62e-4681-8861-137f474ee8b8	TCGA-HT-7602	dd410e7c-fbe2-4c5f-9806-5a4bd5b1f671	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+b435e88b-f105-4c65-b725-126e5a299113	TCGA-HT-7603	fd9500c0-3c41-496f-9f3e-03bf2236fed3	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+019c5de9-74fd-48b7-95a3-227532e16c5a	TCGA-HT-7604	2d4653b8-97bc-4074-8bcb-670897ceb16a	2113	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6b225409-09c0-4a51-8f42-8fefe3855c4d	TCGA-HT-7605	b74c1c34-3036-4765-a2f6-86529d861899	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+ffcec8e5-9fd3-4b42-a7cb-74761f713cf4	TCGA-HT-7606	651250be-1e44-4456-b412-b2a0aa1ce8f2	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+24ebd152-f8d7-44eb-af7f-8ee7f2e458e4	TCGA-HT-7607	216ebb69-2492-4200-8f33-79823f53d40a	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+45b6d41b-3a1b-47e9-80e4-59355170aee7	TCGA-HT-7608	9d46f116-a1a3-4771-b67d-4669e50b5fb5	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+bfbc0d1e-2a0b-4c60-8a37-91e3ce4b79ee	TCGA-HT-7609	851bfb4b-e617-4119-8750-cd021c8d7bfc	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4839a058-fbca-44c7-bd61-81943b4d45d5	TCGA-HT-7610	989d1504-7f2d-447f-ba51-d4d14edabbec	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a5f851c5-6130-4ea1-9f86-be59331a92f7	TCGA-IK-7675	a628adca-4aef-4bd6-adad-d9435e93c3bc	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+b8df1577-2a75-4eb7-ab27-f2dd76160730	TCGA-DU-8158	3ce8a018-6039-4bf7-89a1-e421f67b95b6	2191	Blood Draw	581.97	Strategene kit #200600	40	68.7	[Not Available]	[Not Available]	[Not Available]	1
+b9a3b647-61b3-4d98-90ca-e307ab50984a	TCGA-DU-8161	fa26efde-0563-4c65-8b1d-40ca333e40ff	0	Blood Draw	260.7	Stratagene kit #200600	40	153.4	[Not Available]	[Not Available]	[Not Available]	1
+6fab9c30-354b-4f99-9b60-6823c12b9b0a	TCGA-DU-8162	82e48ce3-6c48-4586-a9aa-de30cda64736	0	Blood Draw	637.06	Stratagene kit #200600	40	62.8	[Not Available]	[Not Available]	[Not Available]	1
+c81d4681-c02f-4b33-abe0-b6ad7d61194d	TCGA-DU-8163	2dbb293a-0ad6-4978-9d99-3ddbdf9a5a91	0	Blood Draw	312.2	Stratagene kit #200600	40	128.1	[Not Available]	[Not Available]	[Not Available]	1
+f97a9afe-e54a-4ef0-b458-0c77f938552e	TCGA-DU-8164	863da761-b4b8-418f-bdca-9e9bf2e9a84d	0	Blood Draw	283.2	Strategene kit #200600	40	141.2	[Not Available]	[Not Available]	[Not Available]	1
+11dffe71-b516-41e8-9987-e0ff5d2356d1	TCGA-DU-8165	cbae23fd-6f0f-4dd8-aa82-125aefe874eb	0	Blood Draw	193.1	Stratagene kit #200600	40	207.1	[Not Available]	[Not Available]	[Not Available]	1
+e488f613-f155-4e11-87d4-8c789ea81691	TCGA-DU-8166	a38506dc-d9e9-4c54-acc2-70556b411b04	0	Blood Draw	766.9	Stratagene kit #200600	40	52.2	[Not Available]	[Not Available]	[Not Available]	1
+58c82c76-9198-4c95-80f8-c043d1cea5eb	TCGA-DU-8167	18791be3-b8ca-40a9-8e33-013af249b395	0	Blood Draw	95.65	Stratagene kit #200600	30	313.6	[Not Available]	[Not Available]	[Not Available]	1
+fc8828ae-484d-4fc8-a168-f8bc58ad65b9	TCGA-DU-8168	76c0f3cb-6130-4e52-8e20-dd21d56e7e71	0	Blood Draw	214.5	Stratagene kit #20600	40	186.4	[Not Available]	[Not Available]	[Not Available]	1
+0f0d9a7f-dd85-48aa-b5b2-deff5bb6bdeb	TCGA-FG-7641	5f86cc40-26c3-4e99-9774-0e000de1c5fa	21	Blood Draw	.1765	Pico200 Picodrop	20	113.31	[Not Available]	[Not Available]	[Not Available]	1
+1159c88c-39d0-4c03-9c66-36af5340a67a	TCGA-FG-8181	01364810-4429-4527-9558-b05ab9490f4f	1	Blood Draw	.17539	pico200 picodrop	19.99	114.0	[Not Available]	[Not Available]	[Not Available]	1
+6a0bcf0c-fa4c-4119-99d2-f722b781d20f	TCGA-FG-8182	558e7fd5-0bb6-4ad5-9644-fd85491398a7	4	Blood Draw	.2924	pico200 picodrop	20	68.4	[Not Available]	[Not Available]	[Not Available]	1
+fb3884df-3680-4c5b-8092-981007aeba03	TCGA-FG-8185	13ccbaa6-d940-4b1a-9480-5d14a8eb44b0	2	Blood Draw	.45779	pico200 picodrop	20	43.7	[Not Available]	[Not Available]	[Not Available]	1
+dcd45077-f068-490b-bdcc-4d4a62285116	TCGA-FG-8186	a1ea2f9c-a858-4ba0-b4e4-c39709848f99	125	Blood Draw	.17458	pico200 picodrop	20	114.6	[Not Available]	[Not Available]	[Not Available]	1
+0df37550-9421-4571-9844-51b457d7cb2b	TCGA-FG-8187	1344fb66-0bc2-4610-a9d9-a8be5d13818c	63	Blood Draw	.3495	Pico200 Picodrop	19.99	57.2	[Not Available]	[Not Available]	[Not Available]	1
+106709ec-72df-44f0-8c71-87b7c755f8f0	TCGA-FG-8188	81aba7e5-0749-4a9c-b1a6-902b18e49573	0	Blood Draw	.259	pico 200 pico drop	19.99	77.2	[Not Available]	[Not Available]	[Not Available]	1
+029b33b1-7ea9-4b77-a615-7eb0e3ebd5e7	TCGA-FG-8191	b8e3e908-11d6-41f3-ae58-fdfacfba329e	4	Blood Draw	.2655	pico200 picodrop	19.99	75.3	[Not Available]	[Not Available]	[Not Available]	1
+b9e2f4d1-866c-4c62-a9c8-8de7eb364a6e	TCGA-HT-7469	96edec23-5d46-44c0-9975-625bd578598f	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+48314732-5d1c-43e6-9878-5b58dfaeb06a	TCGA-HT-7471	dcbdc55a-5456-488e-b07d-0307a1b92fbc	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+48314732-5d1c-43e6-9878-5b58dfaeb06a	TCGA-HT-7471	a3d4abda-de44-4580-b16a-e255c48222d2	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+ab24cdc3-74a1-443f-831f-b7fb3821de6a	TCGA-HT-7616	cad880b1-8337-42c1-81b2-a3372819650e	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0d61bdbd-24b1-4885-a099-9e42ca7eedcd	TCGA-HT-7620	d9161910-159e-4252-b1b4-5c0051d7de18	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+00b18ad6-ff70-41fe-8f4d-0763ac8f28b9	TCGA-HT-7677	6e31feca-17c6-4da5-b200-59393725c94d	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+62e27075-7ddc-4f15-ac21-0a8244abb12d	TCGA-HT-7680	bfe658ee-57c9-4f8e-9e9c-bfda454b5c20	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+b027ab77-70eb-4877-91a3-702064d9cc8b	TCGA-HT-7684	4310cb7f-2b5b-4fb2-8c90-121c4a43e28e	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+3d58ded1-b7cf-420c-ba59-5b424683f0df	TCGA-HT-7686	5af7e067-5801-4272-9739-3dfb44d6e6f1	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+3f36cd97-eb22-47de-b447-5c96378e4a2b	TCGA-HT-7687	1fa43cea-e163-442d-9ca6-5f7b6e444ec4	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+7740824e-905f-47a0-b235-54561ef58ba3	TCGA-HT-7688	ff6b7b03-092f-49ee-879c-0f92895be602	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+d58b535a-6c95-43bb-ad88-0600e6447537	TCGA-HT-7689	35301fda-120a-493a-ba46-d725730157c9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+e78e8845-9fba-48ba-8cf3-418429ea5f56	TCGA-HT-7690	c0c76082-9d95-45b5-83a0-caed0da97985	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6a3e577a-4e07-4468-857a-79edbe6833cd	TCGA-HT-7691	6790ed82-803d-4576-a3ba-e1abf0ff3cc7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6a0b306b-f73d-45b2-93a6-b9bd625644a3	TCGA-HT-7692	3a70a39a-ea36-4c96-aaff-48b8db8bf119	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+491ea65b-86c8-4686-99cf-f09505e20183	TCGA-HT-7693	5b0807d6-5683-4c51-b2a3-097018963e79	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+49a87025-d0a4-44b3-b6ad-563bf9651093	TCGA-HT-7694	718247b9-b034-4f03-835b-f7ee85517e29	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5017c115-39b8-4c5c-8be6-2cb298d7c641	TCGA-HT-7695	9f9afee6-3e0e-45c4-947d-2bdbd7a40485	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4a7d4805-09e3-4044-9800-73239f4d66d4	TCGA-HT-7854	7f21c9a9-8a7c-4ed9-acae-dd7ccd9002f6	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+a0b7c7c8-a6f2-41ba-9e61-9b7f8fbbbe1f	TCGA-IK-8125	da9f5096-6d88-424f-9867-d9bb36443f15	27	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0ce8d92b-54e2-45d4-a551-0faf94a27d46	TCGA-HT-7611	54a7cd7a-62ff-48f8-a1ed-df4cad61957a	-11	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0ce8d92b-54e2-45d4-a551-0faf94a27d46	TCGA-HT-7611	6afa35be-93cb-4bbc-ae22-91459471f698	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9ee268a7-fa71-4f3f-919f-cf4ee1de2658	TCGA-HT-7676	4dfb1780-b4ba-4b11-9cb5-7df54e3f19e4	9	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9ee268a7-fa71-4f3f-919f-cf4ee1de2658	TCGA-HT-7676	b56bc4b6-8b3e-4986-86ed-f97637c78c33	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+fbe32b94-b3ba-4a56-aeba-4cffe8de2da4	TCGA-HT-7681	f0b237e5-24d6-4c3e-bd1a-c7296931c7db	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+fbe32b94-b3ba-4a56-aeba-4cffe8de2da4	TCGA-HT-7681	1d522603-2ae1-42a5-bebf-5508d7b75287	-12	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+40343ebd-0d62-401e-83a4-6cdb57662ec0	TCGA-HT-7855	48f59adf-ae49-403d-8f7d-bc05a9aa430d	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c2c16878-b615-496c-8fcb-d49c97e15551	TCGA-HT-7856	63662ff2-587e-4020-9cb5-68aeeb7261ea	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4e1606e5-f4c1-41a2-9f2c-ad0d02650070	TCGA-HT-7857	b0f230dc-a31a-45e5-af0b-db1e42dcc480	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+b6951c37-377e-49b9-862c-968082e8682f	TCGA-HT-7858	966de670-3bb8-416f-8d99-3a1c5efba27f	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+fea46eef-6b7f-44c3-93bf-2dec16bdeb79	TCGA-HT-7860	1e93c11a-eaae-4902-a272-6a04c04798f1	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c371e2b4-209f-40f3-a30c-51df8270b5de	TCGA-HT-7873	ff5c02ea-d223-49d4-ad8e-1c03f21f781c	-4	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+775c04e6-a02d-44a4-86f7-496056edd249	TCGA-HT-7874	b18046ba-71c0-497d-b7a6-78909df2141c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+40ae8507-c08a-45d5-9bbb-65d236c82319	TCGA-HT-7875	6cec8399-e3c2-4ebe-af6c-7436cf68c8da	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+ea7f3ed6-e44b-49a1-8b5c-ce35539e7bdf	TCGA-HT-7877	6adc289e-b55d-49e4-903c-f0e961d4ab15	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c916b9a4-008e-4d79-a50c-f15c3549fcf6	TCGA-HT-7879	ec3c1d0e-5f84-4c79-91d6-526f4f8d415e	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4240c137-ee3a-474c-9426-470380cb41a2	TCGA-HT-7880	d80293a9-18b5-4b3e-bbc4-94b884328b4e	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+275cb949-2f61-48c9-84f0-ba8ae4fa35c4	TCGA-HT-7881	7d86251a-93cb-4a6a-a0bb-52a4ee72f0b6	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+912d6455-0a50-4fde-b785-f6c09b00b7e4	TCGA-HT-7882	c94a5333-f245-4205-b58a-dcf26877db29	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+86aa5790-9afd-4653-926a-625516df1f56	TCGA-HT-7884	b2b5b5ea-e8b8-4751-b576-fdbd0f763a06	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+02194c0c-e2c1-4ea7-994a-07b61b2575e2	TCGA-HT-7902	729d4313-fc83-48ea-9bbf-2e6b3084a9bd	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+114902c7-77b2-42ca-926b-6895e6db5e36	TCGA-HT-8010	c73afd8f-8312-4e68-92e0-fa50dd33f9e9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+58de25d5-8a32-4412-866b-acac2e321bfa	TCGA-HT-8011	5ac1514f-9c9f-41aa-818c-1b6332d54e69	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9351b1ae-89e6-4091-934f-d50da06cd01d	TCGA-HT-8012	95d04c7e-319f-4df9-b33c-1ee5cb49356c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+e669a4b7-a494-490a-b78c-e664c59d0697	TCGA-HT-8013	fc899fbc-7cbe-4c92-ba7a-d88e6835ca7f	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+80db28ec-ab3d-42a7-af88-b60fe8acb5b5	TCGA-HT-8018	303c4ceb-34e1-472f-8189-5f6cbf3823bc	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9d93834a-3bf0-41fd-8c74-5ac49a6e78cd	TCGA-HT-8019	b4980f5e-f593-4f12-9c1e-a5c89e8cf132	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5de6fd84-ed02-4c27-9947-db57f05faf6d	TCGA-HT-8104	4be310fb-b7ac-4759-9a30-3e55c6f5a341	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+d766c3af-f0b3-4791-a754-d6546d370f8f	TCGA-HT-8105	b4579ae1-2c0b-4bff-baa4-ffb5e7c3c1a4	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+bae316e3-1fa4-4fa7-8ad6-a458857a85d4	TCGA-HT-8106	11645151-7385-4736-b5c4-5578467affb2	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+f2d3fea5-0d20-42d3-b918-adad715be4ee	TCGA-HT-8107	6656f196-bfd9-4aaa-b99a-a22588b1dd74	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+81fb338f-1023-49aa-ac0f-ba763a6cd68c	TCGA-HT-8108	c6045d81-6cea-4922-98d7-7c93b10c2e54	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c7b2833a-9fe8-49f6-b888-2d27b0516f5c	TCGA-HT-8109	c2a9cca2-f8d3-48f2-b631-3c4d26190634	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+ad1c5951-ca93-4102-889b-e28e2bcfea76	TCGA-HT-8110	c92416c9-84b1-4fbe-8c89-01c2821bd62a	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+975c76cd-f88a-4d88-93a4-fbf2cb9e2e3b	TCGA-HT-8111	7f80c899-1eff-4403-98c2-e72daa91f00c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9e621541-d603-4d2d-b86e-2834d3b9f9a5	TCGA-HT-8113	fd0b6874-c0ab-4155-a5a0-f9a04bae942a	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0906ddde-02fa-417d-927b-1c400b189cac	TCGA-HT-8114	aeccda8c-b464-4a7d-953b-6efa710bc347	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9b288f0e-5155-4736-bc22-e0e801d8b738	TCGA-HT-8558	03be084f-3276-4da0-a3c7-b34b38e79761	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+dd7b23a7-b41b-4670-9fc8-78895fb00cff	TCGA-HT-8563	d83c0f90-96a9-4474-b7a1-699cb83dd040	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+f625e522-226b-450f-af94-dd2f5adb605e	TCGA-HT-8564	72126f14-ecd8-4e1d-83c0-22a5b02ad19b	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+bc3b4816-df1d-44ed-a8c6-f32c8e011a1f	TCGA-HW-8319	32ae1d9c-77f6-4ddd-8dc1-e067eff989b3	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+e3ed0c19-6acc-4be1-aae2-73fe73cc9f24	TCGA-HW-8320	98d88fb1-6a84-4139-ac7a-5485a0fe2e9f	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+36cf458b-3c8e-48e7-92ab-aea1c698e417	TCGA-HW-8321	5f1c5d39-82b1-4e39-9266-35a99bc31821	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6105c037-90f1-42d9-ac38-6e2252999a64	TCGA-HW-8322	ab0548c9-0e24-4104-9231-19983f7fb57c	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5E0748F1-990B-43A9-9FF1-6A667CC228A8	TCGA-DB-A4X9	FC78458F-1F5E-4D91-91D5-3E83D566C882	105	Blood Draw	83.12	nanodrop	20	242	[Not Available]	[Not Available]	[Not Available]	1
+AE61A71E-53A1-4884-A4A6-729744D1C309	TCGA-DB-A4XA	D3D3DD13-202B-458A-A3BE-B3FF04717281	2	Blood Draw	317.8	nanodrop	20	63	[Not Available]	[Not Available]	[Not Available]	1
+FB6437F9-ADE8-4C33-A0D0-CEACB2BF784D	TCGA-DB-A4XB	B3E22B50-56A2-4568-B886-D6E21AB05046	169	Blood Draw	250	nanodrop	20	80	[Not Available]	[Not Available]	[Not Available]	1
+33615113-791B-4286-A23A-AD3D1F8D4B09	TCGA-DB-A4XC	39ED0EBF-A75A-4F95-9995-32B011ACA480	18	Blood Draw	.0976	nanodrop	20	205	[Not Available]	[Not Available]	[Not Available]	1
+E30F1994-3622-43D0-BEC2-6D7E2D9881D2	TCGA-FG-A4MT	5C84DB8B-9F39-4529-9A97-5D71A24CDB5E	597	Blood Draw	.206	Qubit	20	97.09	[Not Available]	[Not Available]	[Not Available]	1
+DCE168B1-D2A9-4409-8437-AB382F6D7D31	TCGA-FG-A4MW	D801226C-3791-4E96-89F4-85D382096C6B	15	Blood Draw	.830	Qubit	20	24.1	[Not Available]	[Not Available]	[Not Available]	1
+AD80A042-C4B4-445C-9678-1C2614422684	TCGA-FG-A4MX	2C1CDF31-738F-42A1-93E2-BCC43D931E8A	14	Blood Draw	.412	Qubit	20	48.25	[Not Available]	[Not Available]	[Not Available]	1
+FEBE2CE5-737B-43B8-BC70-4194FE3ED5FB	TCGA-FG-A4MY	26149B1D-2ED1-4864-B439-9FC378E91981	-8	Blood Draw	.268	Qubit	20	74.6	[Not Available]	[Not Available]	[Not Available]	1
+6D020185-BDDE-4C43-9E38-71C6ED0C13D1	TCGA-HT-A4DS	AAB6F5C6-ADFB-473E-A9E9-F5D171CB8056	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+274496D6-0A9B-45CA-876F-B91F7277963C	TCGA-HT-A4DV	733EB7E1-E7A9-4B8C-99E1-8292CCA69567	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1BFF1E07-4923-43D5-B2D3-CB46B6568EED	TCGA-DB-A4XD	5A2879AD-9565-4E5C-B24F-AFC378F58A22	196	Blood Draw	0.053	nanodrop	20	380	[Not Available]	[Not Available]	[Not Available]	1
+1701F4AD-58C5-40D8-90C4-99E3ACAC0104	TCGA-DB-A4XE	4609BAFF-7CF0-45B9-989D-39275436AF27	87	Blood Draw	0.08	nanodrop	20	252	[Not Available]	[Not Available]	[Not Available]	1
+40587B69-0F62-4A2A-88CB-1BD711377F19	TCGA-DB-A4XF	6AFF527B-B678-4AE9-B237-0EC5E2A78D59	273	Blood Draw	0.045	nanodrop	20	450	[Not Available]	[Not Available]	[Not Available]	1
+7704E4A8-C7AA-4288-B1ED-68C23ABBE924	TCGA-DB-A4XG	F345B6BE-F9C8-4202-A8DE-13F73BCDA9A6	1954	Blood Draw	0.057	nanodrop	20	355	[Not Available]	[Not Available]	[Not Available]	1
+5CCD86AB-2587-4F35-B96A-4F4320B10FB9	TCGA-DB-A4XH	4167CC38-0540-4AD0-A832-8B8DAF82D4F0	277	Blood Draw	0.11	nanodrop	20	190	[Not Available]	[Not Available]	[Not Available]	1
+8996DC64-8C5E-4E07-8ED8-2EB11C03626B	TCGA-HW-A5KJ	4E353DC6-3897-4C64-888B-D02B579A5643	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+8A94FF28-A74D-4FE2-B9C0-06C01F0A3FB6	TCGA-HW-A5KK	F78AE5C3-A1A8-4C32-8E16-FC283966C567	-5	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0639B753-4099-4CA4-ADB9-763069A614EF	TCGA-HW-A5KL	BC4EC723-2139-435A-9BF1-E3736192116C	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0DB80DFF-5586-4D9F-B253-DF82E6FD6901	TCGA-HW-A5KM	CBB3A151-8BB6-42C3-9C46-F3AF8E010779	-9	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D87742FD-FF94-4EF0-BBF4-5DD5A185A0E7	TCGA-P5-A5ET	65D05A38-F697-4D13-8A8B-61C76E90A716	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1AA6B9FF-7C97-47D9-923F-2BD83F20E531	TCGA-P5-A5EU	B021BC1E-AD99-40A9-8760-4BC9A3870C17	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D50E944A-3CE4-4632-A878-118499E143E3	TCGA-P5-A5EV	7D28A630-9023-4662-9E76-8756AA31C36F	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6D02E00C-56A5-4433-9930-F036E2AA39AA	TCGA-P5-A5EW	FF401F6C-2913-4EB4-95F4-19CE2584CCC5	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1F33AEBC-EDC1-42C5-BAA9-E4B0A06FCB26	TCGA-P5-A5EY	6E4F8782-EE12-47C8-BD16-34340C27AB2B	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+82FF7A48-EA97-476E-9F4E-AACDEB6659BD	TCGA-P5-A5EZ	1B6C935A-6446-4C11-B139-473102AA9733	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+669605F6-39A1-4F8C-81DC-39430FF5F892	TCGA-DU-A5TP	A62CA5ED-858D-4799-81F5-AD36710DD5F2	0	Blood Draw	374.12	Spec	40	106.92	[Not Available]	[Not Available]	[Not Available]	1
+4BD8EBC1-6F6E-44A2-8544-106901A7BAE5	TCGA-DU-A5TR	2EAAF12D-A5AD-4F5A-BE35-DB27352DE915	0	Blood Draw	753.56	spec	40	53.08	[Not Available]	[Not Available]	[Not Available]	1
+DD163547-43AD-4FE4-873E-83C4C6BE4465	TCGA-DU-A5TS	10F9F7D7-C069-4224-95B3-E637AA2E7284	0	Blood Draw	429.91	spec	40	93.04	[Not Available]	[Not Available]	[Not Available]	1
+699D3BA1-94C8-409F-90C3-E7FE2F1CF825	TCGA-DU-A5TT	D8B07139-6209-4643-9621-1660E1E0900B	0	Blood Draw	350.79	sepc	40	114.03	[Not Available]	[Not Available]	[Not Available]	1
+1C095C4A-DF97-402E-902C-FC83BCF8EF88	TCGA-DU-A5TU	880321FE-57A9-4026-B593-60326D35C033	0	Blood Draw	1851.3	sepc	40	21.61	[Not Available]	[Not Available]	[Not Available]	1
+4C167F09-D664-425F-BD84-6FF8C21B272B	TCGA-DU-A5TW	F4410F28-21C8-436E-A470-9CC4BC45D67B	0	Blood Draw	563.72	spec	40	70.96	[Not Available]	[Not Available]	[Not Available]	1
+0167CF11-74BE-4701-AB9A-4E057D4BB545	TCGA-DU-A5TY	5D70C768-74B6-43BE-826A-4AC0367CE748	0	Blood Draw	1231.3	Spec	40	32.5	[Not Available]	[Not Available]	[Not Available]	1
+5469c0e8-0c58-4870-b897-8fa0704599a7	TCGA-FG-8189	a8cfef89-4146-49c0-9004-1426cfe077e4	-1	Blood Draw	.2985	pico200 picodrop	19.99	67	[Not Available]	[Not Available]	[Not Available]	1
+7662940A-22DE-44D8-B59A-2F2B090EA6D5	TCGA-FG-A4MU	E49361B4-314A-4EA7-8FD4-C3F9D0B183BD	26	Blood Draw	.558	Qubit	20	35.84	[Not Available]	[Not Available]	[Not Available]	1
+C031F2A5-A563-4D5B-BD62-49D4FA5ECA78	TCGA-FG-A60J	71F4B265-CE77-49CD-9842-5DF0E9C3DE42	81	Blood Draw	200	Qubit	20	100	[Not Available]	[Not Available]	[Not Available]	1
+38f4b9f3-6709-40ff-9a81-5fa2111b1ce6	TCGA-HT-7477	8b891f63-914e-4c00-9d99-9fecb18cbe35	14	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+81076cfb-f9d7-4add-b696-6eab0bad7945	TCGA-HT-8015	fa5485ef-e49d-4a2b-ade2-159a50e92cfb	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+618F2AA7-D1B6-430D-A157-D3D956EDEFBE	TCGA-HT-A5R5	262D5CD7-A277-4F9B-9915-AB229D7DCAD7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+7E41BABA-7EF6-4030-B595-D95CD96336B5	TCGA-HT-A5R7	7C8A06FB-B7E5-4E0B-9079-5F2E7798A7E7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E117FCF4-2C01-4B4D-8FAF-5DE7D0E839F1	TCGA-HT-A5R9	B0F44101-7D22-4A71-84CB-5329500EAAEB	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5A2D3BFA-4BDD-417D-9796-E3699760114C	TCGA-HT-A5RA	F4D17204-061C-4444-A6ED-6815242DD531	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+04D56BED-98FB-45EB-8C90-95E69264DFE2	TCGA-HT-A5RB	A13BB460-01DA-4887-9A41-524A8C5ACD80	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+8655FA51-D784-4F8D-9BC8-F1DA7303D22F	TCGA-HT-A5RC	AB74EDC5-62E2-4CD7-AFD7-9788BF05A98F	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1F13065A-40F7-455D-B8EB-F9A128722EAC	TCGA-P5-A5EX	B1EE397D-35C3-4128-8358-F88270584067	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+7EB5D055-E1C8-4B93-9205-A49A6E79DFD4	TCGA-P5-A5F0	30798A9C-609E-4EC5-B666-8B5BB3253365	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0611F5BC-89B5-44BD-B301-751FAAADB561	TCGA-P5-A5F1	91DA3304-FB8E-462C-B11E-A51BADA11D21	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C85FA637-941A-4A9A-8029-F5B44F3DA430	TCGA-P5-A5F2	722F1119-D72A-483A-B7E5-781EAB1255BE	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0557B788-5AED-4919-85EB-A503AD893D75	TCGA-P5-A5F4	25248D8C-D9BA-4019-A971-D63686FC06B3	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+2E3B9F32-304E-454B-AC2C-FC72D2CCAA19	TCGA-P5-A5F6	F1B6ACA2-82E8-4E76-8CEE-5FEB0E7FEDC3	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+DA735A88-D811-49F1-9091-A097C59ED68E	TCGA-DB-A64L	83979865-B4EB-4937-9E6C-70B7BE2F910E	108	Blood Draw	2.16	Trinean	20	93	[Not Available]	[Not Available]	[Not Available]	1
+0536F465-1650-4411-823C-C660BC7F3ADC	TCGA-DB-A64O	48773E4C-1940-4ACC-BE95-B58913687691	378	Blood Draw	0.491	Trinean	20	41	[Not Available]	[Not Available]	[Not Available]	1
+12F02422-585D-4068-BBDE-BC279C6A89AB	TCGA-DB-A64P	D0A0DA71-D11D-4191-9457-72389A6FC9A6	43	Blood Draw	0.264	Trinean	20	76	[Not Available]	[Not Available]	[Not Available]	1
+887DEF39-E212-490D-8849-2BC932FCEFF0	TCGA-DB-A64Q	0F0684FE-B00F-4FF9-ACD1-97EE71FCDFE3	110	Blood Draw	0.144	Trinean	20	139	[Not Available]	[Not Available]	[Not Available]	1
+67E9B426-72EB-4475-9689-EB75B22C4FD5	TCGA-DB-A64R	FB116C9E-6FB2-4B8D-81E4-358C8F22E506	84	Blood Draw	0.25	Trinean	20	80	[Not Available]	[Not Available]	[Not Available]	1
+66990A9D-8C40-4C56-B931-5C3826C3BC27	TCGA-DB-A64S	0909D2B5-46B2-41BA-921B-58AE222C86C3	-29	Blood Draw	0.271	Trinean	20	74	[Not Available]	[Not Available]	[Not Available]	1
+99D396BB-5F51-4EE4-A149-244E8FCAF522	TCGA-DB-A64U	C974C7D8-67C5-4BB0-AAF1-4BEE9B828921	120	Blood Draw	0.252	Trinean	20	79	[Not Available]	[Not Available]	[Not Available]	1
+176D89D7-F8F1-4A72-B45A-31CBE1632A30	TCGA-DB-A64V	D243B106-9ED2-4C65-9E1F-27581C9F3BCE	23	Blood Draw	0.25	Trinean	20	80	[Not Available]	[Not Available]	[Not Available]	1
+DF22BC30-96E2-42DE-9A39-2954DB49841D	TCGA-DB-A64W	612BAA91-8D25-48B1-A634-290EECC41A7C	10	Blood Draw	0.212	Trinean	20	94	[Not Available]	[Not Available]	[Not Available]	1
+9922DE10-9280-44C0-B86F-6D1CA7E55BF2	TCGA-DB-A64X	E5E976EA-E43B-4C6E-AA14-0080CD7481D4	79	Blood Draw	0.38	Trinean	20	53	[Not Available]	[Not Available]	[Not Available]	1
+CB1E9916-C03F-405A-A797-15823DF09C8E	TCGA-DH-A66B	F2C43151-6779-455A-8474-B76306EC0D8F	-1	Blood Draw	.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+CFCD3835-BB09-400E-B7EB-55AC139D01F8	TCGA-DH-A66F	69508FF6-622C-44C8-945D-AF0DCA5A1FF0	-1	Blood Draw	.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+A85AEBDA-B182-41BA-815A-3FF055E22829	TCGA-FG-A60K	FCF31E30-A80B-4AAC-9955-8704F1B038F4	3	Blood Draw	600	Qubit	20	33.33	[Not Available]	[Not Available]	[Not Available]	1
+001AD307-4AD3-4F1D-B2FC-EFC032871C7E	TCGA-HT-A614	70DBA908-6B41-4081-B0BF-4B46A922AE42	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E89F7631-FDAC-4BE9-9997-70E400EFDC04	TCGA-HT-A615	BAD301A3-5808-4011-91C1-3C04C5C3A0DC	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D43581A5-3D49-4263-862B-CA99D15EC03D	TCGA-HT-A616	CB0215BC-FBEC-4C8A-8A33-7F1F671B5693	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E0F8E70A-AC91-4D3C-806C-BA9C14ED43AB	TCGA-HT-A617	E55C48C0-6E4D-4AB8-BCB6-2C9DE92B378D	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+A4E2E507-7DDF-43DF-B959-FE451971AF1E	TCGA-HT-A618	4317B489-6C39-440F-AFAA-9036DBFF588A	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C13BAC88-C85B-4EE3-A51C-FD503CD7E726	TCGA-HT-A619	CB1683C0-97C0-4683-8DA7-DD0AA5CAECD4	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+EFFB5839-24A2-4B8C-8B6D-08CB66503D16	TCGA-HT-A61A	C5875280-DC8C-4A1D-B69E-89D07D349F2A	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+CF2A1B98-5693-4C04-9167-F85E69A88A4A	TCGA-HT-A61B	9E7CE89C-945E-469B-95B1-1780673CBDFA	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+77396AE6-3838-47BF-AAAE-F9A0F401EC7F	TCGA-HT-A61C	738DD5F0-BAE0-463E-86AE-6FD0D251CC90	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+92EBE72E-508D-4547-B14B-B8E02E6233CA	TCGA-QH-A65S	F9833D51-ED03-4E70-A698-4A565FE8B172	-6	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+AD72E61E-51E3-4992-AC77-65E895935736	TCGA-QH-A65V	8F8A4908-6A19-41F5-AFC0-196C56D12656	-8	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C2F9DFF7-751B-4704-8E6E-F4F800297030	TCGA-QH-A65Z	BF7BBB7E-A8D6-426F-8F78-71009485BA5F	-9	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+76E54EF6-1799-4FD9-BEC3-0EA960E8461E	TCGA-DH-A669	F61ACBA6-BD08-428B-8D9B-FCCEFE643A36	426	Blood Draw	.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+F005FA99-7E4E-4308-B11C-83B25683B1FD	TCGA-DH-A66D	B1247E5E-6F17-4861-A3ED-813E2AA1E030	-15	Blood Draw	.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+DA40E6D3-A2A9-4517-AAA2-AEF6C3892EBF	TCGA-DH-A66G	CCD51CA8-A921-4EBA-B767-53BBF520658C	0	Blood Draw	.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+738F5C96-EE44-4FD7-BB8C-E2B86F8053C8	TCGA-FG-A60L	A6A7CC6B-8C85-4D6E-A56D-97F4F92D7035	0	Blood Draw	248	Qubit	20	80.65	[Not Available]	[Not Available]	[Not Available]	1
+DA13446A-C4DC-4D02-80C8-410273925AC4	TCGA-FG-A6IZ	D6CE354F-EC0B-4D49-869B-0D04DB1C5C42	108	Blood Draw	290	qubit	20	69	[Not Available]	[Not Available]	[Not Available]	1
+EA31C705-4CF8-48F5-8D13-E43563213C91	TCGA-FG-A6J1	3CAF8F3E-5629-4F35-8478-0196315A5CEE	52	Blood Draw	165.8	qubit	20	121	[Not Available]	[Not Available]	[Not Available]	1
+AE4F0714-3B74-46C0-9C1B-F028C7CF2E62	TCGA-FG-A6J3	1A706F14-07C7-47C6-93C0-5D9C385251CC	48	Blood Draw	138.6	quibit	20	144.3	[Not Available]	[Not Available]	[Not Available]	1
+505E9812-D13E-42D3-AEE2-55A85D6F4551	TCGA-QH-A65R	89451DB1-F007-4400-AF61-076AFD7E9746	-9	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+6D17C327-435A-4CBA-9626-3B5B7B7375BB	TCGA-QH-A6CS	F94E16C6-43DC-4288-B19C-43A4977FD96A	-24	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+76CB16F9-37BE-450E-B60A-5F0D0F1EC2BC	TCGA-QH-A6CU	7DEAB9AC-6492-4625-B0A5-9B38446869CA	-6	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+29E95C77-F55B-42E1-B81E-EAB4BB3CF803	TCGA-QH-A6CV	85C23541-C7B2-4DB3-9E73-DAB0266CBE46	-6	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5F853A88-811D-4EB4-914E-D90862C5D2A2	TCGA-DB-A75K	DB6996C6-AA87-4F4A-941B-C99A2F0C114B	11	Blood Draw	0.317	Trinean	20	63	[Not Available]	[Not Available]	[Not Available]	1
+BA62B5EB-E169-4B41-B949-E004D66E98A1	TCGA-DB-A75L	79EC8F61-429E-4E0F-B229-095A0BF2E589	32	Blood Draw	0.158	Trinean	20	127	[Not Available]	[Not Available]	[Not Available]	1
+0709DBCC-0828-4066-AA01-96F059E5FA97	TCGA-DB-A75M	A1AA8772-FE48-4F87-B8B9-FED3DC95E728	112	Blood Draw	0.097	Trinean	20	206	[Not Available]	[Not Available]	[Not Available]	1
+0C52A842-C220-486E-88DE-8A4FEC5D6A58	TCGA-DB-A75O	906F5742-9542-486C-93C3-FC4412764DD8	154	Blood Draw	0.263	Trinean	20	76	[Not Available]	[Not Available]	[Not Available]	1
+904371B0-1E2C-4CD7-A69D-29AE8C5FEC8B	TCGA-DB-A75P	54CF73BD-E1ED-4FBF-9426-76775D297ECC	116	Blood Draw	0.269	Trinean	20	74	[Not Available]	[Not Available]	[Not Available]	1
+BAADDD76-277F-4C90-9CC2-0FECE30C9735	TCGA-DU-A6S2	FFB6976C-A618-4EFC-BFD4-D580EF8E3E61	0	Blood Draw	887.61	spect	40	45.1	[Not Available]	[Not Available]	[Not Available]	1
+1E713E76-064D-46DC-A53C-20A17EB68341	TCGA-DU-A6S3	52B9D6E0-F065-4EB0-A787-2D79F1E1A042	0	Blood Draw	0.427	SPEC	40	93.7	[Not Available]	[Not Available]	[Not Available]	1
+3BAA0015-885C-487A-9076-236F404FEB3E	TCGA-DU-A6S6	A851E620-2566-41AA-A950-22E0D7C57D71	0	Blood Draw	0.218	SPEC	40	183.5	[Not Available]	[Not Available]	[Not Available]	1
+A56C2083-33D5-4C98-B85F-3B68A3D80ADD	TCGA-DU-A6S7	F3E3777F-3242-4B8F-92CB-26735C0999A3	0	Blood Draw	0.260	SPEC	40	153.7	[Not Available]	[Not Available]	[Not Available]	1
+9CD3B3C6-2268-4E43-964B-B7A4DAF6FC6F	TCGA-DU-A6S8	CDDD7F75-229A-49DA-8D65-3E977938053B	0	Blood Draw	0.511	SPEC	40	78.2	[Not Available]	[Not Available]	[Not Available]	1
+395798C5-3136-4A30-8557-A67A3ABDECAF	TCGA-DU-A76L	C21AD115-31E8-4C3C-8E4B-951B50462CF1	0	Blood Draw	0.51	Spec	40	78.4	[Not Available]	[Not Available]	[Not Available]	1
+C56FA247-AD97-4DCE-A2D3-9BDFC5DC7B1B	TCGA-DU-A76O	3CFAB104-43CA-482C-93B8-3E21684A865A	0	Blood Draw	0.22	SPEC	40	182	[Not Available]	[Not Available]	[Not Available]	1
+823F571A-3CFD-465D-95FD-187A398CCF6F	TCGA-DU-A76R	F33FA54B-EBA0-4AD2-A5B0-3D29712D366A	0	Blood Draw	1.286	SPEC	40	31.1	[Not Available]	[Not Available]	[Not Available]	1
+FA878A23-CD20-44EF-B438-33033B5FB1FE	TCGA-FG-A713	70794663-E46E-49F8-AEC2-2D3367631476	74	Blood Draw	192.6	qubit	20	103.84	[Not Available]	[Not Available]	[Not Available]	1
+FDFF46A7-F92A-45CF-8756-6C73A406C923	TCGA-HT-A74H	51D97CA9-E6DC-47F0-A8B6-86E2285FCBF9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1A20F675-D9BB-48B0-A49F-D52270BD8973	TCGA-HT-A74J	C6424F9C-1381-4642-8C6A-E1AA6C8EEB63	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+A3BE4E6F-C845-4D64-8111-D63FDF8CC8F1	TCGA-HT-A74K	275C5B16-7244-4EB6-92D4-561C60E066D1	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+559A8F6F-DD60-43B7-AE09-16CC4206064C	TCGA-HT-A74L	34586B71-924D-4A1E-9ADE-DDF90863E297	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+723CAD09-AA2D-4492-B19D-661B310E1C58	TCGA-HT-A74O	27DBDD1D-FE9B-443F-A039-DE8D89C7AD81	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+442DF188-B678-45BB-BD9D-7071ED8AAA5A	TCGA-KT-A74X	5DBABF1C-4227-4A68-888B-8F3988B79774	1	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+49D5ACBB-D75C-4485-B456-6B50667FEF99	TCGA-P5-A72U	83FFE3FB-29E6-4154-A02C-09ABB460EABA	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+59012B43-AB0B-42C3-AED3-94E224A3DFA7	TCGA-P5-A72W	114B4079-ED41-4887-A445-0A6B0814A584	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+2FB951F1-00A0-4CAF-AC93-096056E77B1F	TCGA-P5-A72X	2C53C8ED-1F16-4F39-BECC-922C9B5B2368	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+141F0546-F6F2-408F-AC86-07CA4AADF3D0	TCGA-P5-A72Z	61120406-360D-4049-B120-BA2199C9DD14	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+446D76DF-3E78-4272-A942-CED0DE27C794	TCGA-P5-A730	DC5AD7C6-1831-4E4A-B4FC-61BEB7E15ABB	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+335BC811-8BDC-4F66-BDD0-703B7CC7464B	TCGA-P5-A731	985C6663-7783-4EF6-BBCD-4CFDD8C738AA	-18	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D81B9957-8C82-4006-B111-449FA9FB95ED	TCGA-P5-A733	6B3D08BD-3B6D-4CD7-B104-6500CFBF8602	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+A3822B5E-D794-4126-B31F-C70E1CC47F22	TCGA-P5-A735	BB1300F6-23B4-4C01-B978-F470E61AE878	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+AC3779F6-CC8B-428B-9531-03562A614515	TCGA-P5-A736	32FFB684-2DCE-4904-A7C9-6C5C4DED4B09	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1B77D1E8-0A02-41DE-A408-DCF33A43407A	TCGA-P5-A737	C97397EA-51EE-4BF8-8D4D-4D1AD04567BF	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+EEF15B5C-5FBE-482A-B3B0-DD091888A6A2	TCGA-P5-A77W	D4C1F0E5-57BC-4B15-902D-9C0857B3D671	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+878CED76-3144-4141-896F-50E3E863DF36	TCGA-P5-A77X	148B5C42-BF7B-435A-BE40-8B17E074586D	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E661E157-C6BC-4024-9905-97954759AAD6	TCGA-P5-A780	2E8B721A-DCE7-437B-852B-1046A4E43CC8	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+3C6DC0EB-E94B-4293-B665-F3CBA04FC8DE	TCGA-P5-A781	682EA30A-24EE-4450-AD3E-9A34F37DD436	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+451BAD4F-6D72-4526-9978-38E090FC479F	TCGA-QH-A65X	1291BB99-C40E-48F3-BE1A-B754A9C38F0F	-8	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+451BAD4F-6D72-4526-9978-38E090FC479F	TCGA-QH-A65X	9DAE0AE3-D2ED-49B3-9339-CE89FB8F9726	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+451BAD4F-6D72-4526-9978-38E090FC479F	TCGA-QH-A65X	1BCDBB2E-A25B-4380-947D-1380C8AE73E3	138	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+451BAD4F-6D72-4526-9978-38E090FC479F	TCGA-QH-A65X	A3C2D018-D116-46C9-AF7A-20681E11D0C2	138	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+FE5C5C11-EF39-4907-9A70-67F37BB62FD7	TCGA-QH-A6CW	4950A8D8-2EBA-475E-B12E-88A56C43CF42	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+FE5C5C11-EF39-4907-9A70-67F37BB62FD7	TCGA-QH-A6CW	03B82F63-06CC-44FD-B080-C1116938ADF8	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+CF29547A-305B-4E6E-8342-36AAC0850065	TCGA-QH-A6CX	34C3C3CF-4FA9-480D-9A9D-2B941078EF09	-6	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E1758D75-B2A0-4386-BD72-6B2421D4DA6B	TCGA-QH-A6CY	A25C3E37-13C5-422D-B97E-34F089418937	-6	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B4F4C9B5-BC50-4F35-A7DA-FD011C3B2C02	TCGA-QH-A6CZ	BEB22683-D4F2-40C9-ACD9-580A14FBA44C	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B4F4C9B5-BC50-4F35-A7DA-FD011C3B2C02	TCGA-QH-A6CZ	984E2783-2A4F-47AC-B54E-8594F3484477	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+B60FCE04-9779-42C0-8161-D29D8A1D7C64	TCGA-QH-A6X3	C80377C0-7DC8-4B2E-B3D4-12D668BB08F8	-10	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B60FCE04-9779-42C0-8161-D29D8A1D7C64	TCGA-QH-A6X3	B153D553-D16B-4C2E-AF42-0DC1F0949298	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+976D067B-9D7F-4920-A04D-E831EDC6C2C2	TCGA-QH-A6X4	9540B2C0-C2B6-48A9-8CDD-847825094D17	57	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+976D067B-9D7F-4920-A04D-E831EDC6C2C2	TCGA-QH-A6X4	E6D624AB-E722-417E-AD6A-496AFDC4B2F8	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+ED833BE3-0E9B-4C9B-B6D5-1098F08265A0	TCGA-QH-A6X5	DEEE6E9C-B0BA-4140-97C9-D09E55609E4E	-6	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+ED833BE3-0E9B-4C9B-B6D5-1098F08265A0	TCGA-QH-A6X5	28234797-4249-4BDE-BADE-EC36E18A0EBE	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+D209CFFC-FE21-4AE7-B610-E5668EA84A3B	TCGA-QH-A6X8	298AF8E6-8AE1-4217-8BA4-71BBD0235F29	12	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D209CFFC-FE21-4AE7-B610-E5668EA84A3B	TCGA-QH-A6X8	E293D3F2-EFE8-4117-A5A1-141517A0B9F4	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+1CA2E1B3-E3EB-4740-A69A-800E3EB60787	TCGA-QH-A6X9	5B0B5B08-70F0-40E6-BD6F-71DF79F164ED	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+1CA2E1B3-E3EB-4740-A69A-800E3EB60787	TCGA-QH-A6X9	BEDD97A9-62B7-4CE9-95AD-708C36C9F12B	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+4289A50B-C6BE-495E-9826-53AEB67B6A22	TCGA-QH-A6XA	829C1552-5F44-4783-8CF5-F1831970842A	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4289A50B-C6BE-495E-9826-53AEB67B6A22	TCGA-QH-A6XA	B3A12EEC-242E-4A0B-A321-CC7D70F9DC00	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+62088274-A45B-4616-B086-B0DDD64895F0	TCGA-QH-A6XC	E8CB8682-61D2-439E-A768-0A3D386B049A	-8	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+62088274-A45B-4616-B086-B0DDD64895F0	TCGA-QH-A6XC	EECC31F5-D15A-4EEF-AF66-8D55FC632994	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+688FC346-A14D-4859-8727-057CD0A0B880	TCGA-S9-A6TU	AD9568A5-5321-4C80-98C6-0911D843DE08	0	Blood Draw	0.361	nanodrop	25	69.25	[Not Available]	[Not Available]	[Not Available]	1
+C45E02E5-7E3C-4F36-8B8D-F54617E8A436	TCGA-S9-A6TW	419678CF-F14C-443F-8222-E6FFD6D2DCFB	-4	Blood Draw	0.49	Nanodrop	25	51.02	[Not Available]	[Not Available]	[Not Available]	1
+432FE4A9-2CDC-4323-AFF0-59E2FDEDA194	TCGA-S9-A6TX	699DB499-7A1D-4CAE-B29F-BD1B732937C5	-7	Blood Draw	0.614	Nanodrop	25	40.72	[Not Available]	[Not Available]	[Not Available]	1
+DCBBACA6-A24B-4BED-95DE-314CFF71E436	TCGA-S9-A6TY	A3A0C90A-1571-47C7-B1BF-18AC456FC826	-17	Blood Draw	0.335	nanodrop	25	74.63	[Not Available]	[Not Available]	[Not Available]	1
+B297C4DC-EC58-4392-908A-586E81D57EF0	TCGA-S9-A6TZ	62868A3B-41FB-4C6C-8BB4-8A7A3AD47B61	-14	Blood Draw	0.886	nanodrop	25	28.22	[Not Available]	[Not Available]	[Not Available]	1
+A343FBE3-147A-4656-9E90-5408298CA12C	TCGA-S9-A6U0	E16FAD61-44C3-4361-BAD3-43655F353454	-6	Blood Draw	0.2716	nanodrop	25	91.91	[Not Available]	[Not Available]	[Not Available]	1
+38ECA720-AD68-43A7-8A1C-F79F838D5D03	TCGA-S9-A6U9	3A2395D9-C5BC-4592-941F-7F3519B59F75	-1	Blood Draw	0.032	nanodrop	25	44.80	[Not Available]	[Not Available]	[Not Available]	1
+D13AC936-87A9-4164-BDAB-02CCF3908CFE	TCGA-TM-A7C3	2C47B975-6AAD-40A4-8C67-D22D7BE99384	0	Blood Draw	0.1575	Nanodrop	15	95.24	[Not Available]	[Not Available]	[Not Available]	1
+F5416DC4-D161-4776-9827-E4CEAF42D19F	TCGA-TM-A7C4	B57C50CB-773D-4EA9-9CE7-4DAFE1E65A5D	1	Blood Draw	0.31872	Nanodrop	15	47.06	[Not Available]	[Not Available]	[Not Available]	1
+84D80BCF-DA24-4B93-BFE3-3D2D53B8B07D	TCGA-TM-A7C5	674AE721-378B-4133-AB88-54804F322E06	1	Blood Draw	0.39438	Nanodrop	15	38.03	[Not Available]	[Not Available]	[Not Available]	1
+033C1F48-9225-4159-B23B-7042272877DA	TCGA-TM-A7CF	251ACE07-1FFA-46BA-869C-5356709635E1	2	Blood Draw	0.2778	nanodrop	15	54.00	[Not Available]	[Not Available]	[Not Available]	1
+B37ABDC8-B9E3-4F1A-B16D-2E59442DB335	TCGA-DH-A7UR	8B223174-910E-4CE6-9FF1-406CB4DB239F	0	Blood Draw	0.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+82FD02AB-D628-469F-8853-4C603CF04964	TCGA-DH-A7US	3655F382-D7B1-413D-B06E-7E69F82C60CF	0	Blood Draw	0.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+30BF5895-0671-4FB1-A96D-857847FCF7B0	TCGA-DU-A76K	84B264E2-0750-4287-A31F-FCCE73B8F0C7	0	Blood Draw	0.32	Spec	40	125	[Not Available]	[Not Available]	[Not Available]	1
+A0672F6F-6406-4D49-96D0-6AFD571BBD00	TCGA-DU-A7T6	9E8C7DA1-F9AD-45A8-B2D0-63164CDFA502	0	Blood Draw	0.275	SPECT	40	145.5	[Not Available]	[Not Available]	[Not Available]	1
+EF12BFB7-4147-407F-84E9-586DBB10D583	TCGA-DU-A7TA	15A76DAA-55F6-4CBA-A0D5-85AC22BAA257	0	Blood Draw	0.439	SPECT	40	91.1	[Not Available]	[Not Available]	[Not Available]	1
+D3D8987D-0A54-45F8-B9C9-17EC89FA864E	TCGA-DU-A7TB	B8D0140A-83AA-4306-8E0A-9223AD591674	0	Blood Draw	0.313	SPECT	40	127.8	[Not Available]	[Not Available]	[Not Available]	1
+0EFAF8F9-177C-4FFB-B03F-F0316ADF5DC1	TCGA-DU-A7TI	ABEF0187-ECF3-4B0D-A922-82CB77FC2C44	1114	Blood Draw	0.565	SPECT	40	70.8	[Not Available]	[Not Available]	[Not Available]	1
+98E82E98-341A-4BCA-92C0-23C65C1BF94F	TCGA-FG-A70Z	E3B756D9-8150-4BAC-B331-B2A775D95FFF	60	Blood Draw	685.5	Qubit	20	29.2	[Not Available]	[Not Available]	[Not Available]	1
+5B199E7E-CC23-4065-88AD-FDFE3D0683D6	TCGA-FG-A710	06B7251A-72E7-486F-B7EA-DD553DC0B498	18	Blood Draw	69.28	Qubit	20	288.7	[Not Available]	[Not Available]	[Not Available]	1
+1F5B6B07-45F5-4DA4-932A-DF9665F6C538	TCGA-FG-A711	EEB18C5C-BACA-4131-BF93-A343239FA2F3	11	Blood Draw	122.03	Qubit	20	163.9	[Not Available]	[Not Available]	[Not Available]	1
+41E4DC71-7767-44C2-9D38-110DCD37B451	TCGA-S9-A6TS	8608DA28-D7D4-42F7-B45A-6BE0B5DE5A3D	-7	Blood Draw	0.441	Nanodrop	25	56.69	[Not Available]	[Not Available]	[Not Available]	1
+A5E10E2E-5157-487B-88DC-6C70AD5E244A	TCGA-S9-A6U1	47618BB0-1D0A-4EFA-967C-5AB92DB17C82	-12	Blood Draw	0.433	nanodrop	25	57.74	[Not Available]	[Not Available]	[Not Available]	1
+41FBB9F1-4A13-48AB-8649-0608C89CDD9F	TCGA-S9-A6U2	6B4D2014-E8C4-413C-B4B6-B80A1DE081CA	-5	Blood Draw	0.401	nanodrop	25	62.34	[Not Available]	[Not Available]	[Not Available]	1
+621424EC-67BC-4C42-B0AD-64C5654B5AD9	TCGA-S9-A6U5	9019571B-F542-428C-80A8-5B44CF2B6821	-5	Blood Draw	0.389	nanodrop	25	64.27	[Not Available]	[Not Available]	[Not Available]	1
+8ED09A8A-3284-4A1B-B369-E25D2FAB0F61	TCGA-S9-A6U6	C5BB5C19-716C-441A-94E2-CB83BB2B5A7A	-2	Blood Draw	0.565	nanodrop	25	44.25	[Not Available]	[Not Available]	[Not Available]	1
+B10A9314-FD40-459E-97EA-AFFC636DCEEA	TCGA-S9-A6U8	5EE0C0B3-069D-4902-A9CB-C9007F2D9C60	0	Blood Draw	0.099	nanodrop	25	121.36	[Not Available]	[Not Available]	[Not Available]	1
+E6B7420F-4315-46A8-AED5-5C47CCE5DED3	TCGA-S9-A6UA	4B14FC6E-EEE3-404F-97D5-DF61571EDAF0	-3	Blood Draw	0.148	nanodrop	25	134.48	[Not Available]	[Not Available]	[Not Available]	1
+DD85DBB2-31C3-4BC2-9DFF-3BD27C79A9AD	TCGA-S9-A6UB	19A6C33D-53AD-450D-B081-C0994F14DB15	7	Blood Draw	0.508	nanodrop	25	40.85	[Not Available]	[Not Available]	[Not Available]	1
+3E4851CA-4D69-4035-A2DD-8ED6E70F1FFB	TCGA-S9-A6WD	8D73CAFD-5CCF-42CA-8381-C9A01C2D5951	0	Blood Draw	0.7575	nanodrop	25	33.0	[Not Available]	[Not Available]	[Not Available]	1
+6D2C49C3-0721-4BD2-B39F-7872F2DE996D	TCGA-S9-A6WE	169CB94D-DAFA-4D49-9BEC-34B1D3BFF503	-1	Blood Draw	0.28	nanodrop	25	89.29	[Not Available]	[Not Available]	[Not Available]	1
+A1192DF3-7667-4D1E-A1A0-79F6CC827DCF	TCGA-S9-A6WG	AE57B6E2-2A13-4F06-86CD-1D43D45F179D	-1	Blood Draw	0.037	nanodrop	25	39.12	[Not Available]	[Not Available]	[Not Available]	1
+0BDE34DD-DAE9-4533-98EF-F5A61A11E7C4	TCGA-S9-A6WH	C971E4B2-461B-48DC-9275-3F0174E3865A	-10	Blood Draw	0.738	nanodrop	25	33.88	[Not Available]	[Not Available]	[Not Available]	1
+0B283F95-DBD4-4C36-9201-2198A90EE0D6	TCGA-S9-A6WI	EC9B5F3F-3AA7-4D22-975C-67667F6AE65C	0	Blood Draw	0.132	nanodrop	25	189.39	[Not Available]	[Not Available]	[Not Available]	1
+D62D871B-4612-4BF4-B53C-9DD431E507A0	TCGA-S9-A6WL	871E13F0-E90B-4C25-B68C-96ED133418C6	-1	Blood Draw	0.31326	nanodrop	25	79.81	[Not Available]	[Not Available]	[Not Available]	1
+F79420CA-B0AE-417C-95F7-D28C35760202	TCGA-S9-A6WM	1BCCF471-8A8E-4444-955E-4E6CB433D077	-8	Blood Draw	0.39	nanodrop	25	64.10	[Not Available]	[Not Available]	[Not Available]	1
+A418FE65-DFDD-4C84-B27C-B4567B50F457	TCGA-S9-A6WN	B48A5548-25A2-4EA6-8486-5071C8871B74	-13	Blood Draw	1.144	nanodrop	25	21.85	[Not Available]	[Not Available]	[Not Available]	1
+288F6C7E-D96F-4BE1-8312-77C67F75C467	TCGA-TM-A7CA	678B3BAC-A9F4-45CA-81CA-DF1F1B60B1A8	-3	Blood Draw	0.167	Nanodrop	15	89.82	[Not Available]	[Not Available]	[Not Available]	1
+F5268956-789D-4B22-8F19-A3AC9353D33D	TCGA-TQ-A7RF	1621C971-F178-4156-91A8-DB20CBE9E775	303	Blood Draw	0.248	AS1010 PROMEGA	15	60	[Not Available]	[Not Available]	[Not Available]	1
+619E18C1-09B9-468C-816D-6789C0BEF0A8	TCGA-TQ-A7RG	F8CE8263-B140-4EA7-A2AD-166DCCCFB4E8	216	Blood Draw	0.160	AS1010 PROMEGA	15	94.04	[Not Available]	[Not Available]	[Not Available]	1
+7989B7FB-B9D9-4D3F-9352-CD0C1F28D828	TCGA-TQ-A7RI	A374C07B-10A0-4B8C-B32D-2E2493C0658A	503	Blood Draw	0.114	AS 1010 PROMEGA	15	131.92	[Not Available]	[Not Available]	[Not Available]	1
+DF78E63D-4387-4177-B24F-F0E2C6C7AC32	TCGA-TQ-A7RJ	201044E4-BE65-4136-AC3A-79892F1EB523	851	Blood Draw	0.191	ASS 1010 PROMEGA	15	78.74	[Not Available]	[Not Available]	[Not Available]	1
+2F8C789E-BBD8-4753-A48B-6894C21162F8	TCGA-TQ-A7RK	B7B08D55-FE27-4261-A8C2-E29DBC658E74	986	Blood Draw	0.129	AS 1290 PROMEGA	19.35	250	[Not Available]	[Not Available]	[Not Available]	1
+3431A71C-FABF-440C-B11C-8ACFEE04724F	TCGA-TQ-A7RM	00466B6B-9FD8-4CDB-AA73-F6179D874F39	830	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C05F9E21-B8FA-4537-9AE7-39D6FC9D7933	TCGA-TQ-A7RN	86DAEE7C-4083-4DA0-A039-6BAF945E844C	687	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D698946E-57DD-4FF2-B5FA-7A1D15C828BE	TCGA-TQ-A7RO	B4E66500-391C-4146-97DA-8FF650116DDE	634	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E2B1D161-D8CC-4EBA-87AC-9449C6CD2977	TCGA-TQ-A7RQ	20AFE18E-3FBD-43AF-8329-C87415948E05	474	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+44553E34-5111-40A8-B76A-254751BE3F87	TCGA-TQ-A7RS	CA4DF871-073D-4E63-AECB-6ABC6072AF5C	371	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+F878BF8D-70EB-4B74-BF74-BDF63CB9BFAE	TCGA-TQ-A7RW	D107B357-C3BD-4B4D-BD45-E193EE87438E	0	Blood Draw	0.311	AS 1290 - PROMEGA	15.56	50	[Not Available]	[Not Available]	[Not Available]	1
+2C982CFB-4112-4E27-8293-25AA9E01FAAE	TCGA-VW-A7QS	61ED41CD-BEEF-4F84-BDDD-58F7F2C483CB	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B2B57E93-2722-4546-9A0B-20155B86EDEF	TCGA-DH-A7UT	DAD9468A-EA3A-4F16-8593-C0DD311DF25D	0	Blood Draw	0.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+977118C8-B446-4696-AA6E-9F1A1055E241	TCGA-DH-A7UU	E1AC0A08-F143-4D0C-BD43-74222DF603ED	0	Blood Draw	0.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+3B19B5D1-13AF-4669-A082-1BD546048185	TCGA-DH-A7UV	A94A5776-3F73-438A-AFE2-7EDA5DAB1D26	0	Blood Draw	0.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+04E6E843-7F31-43DA-B111-280CE2BD1949	TCGA-DU-A7T8	1F5BF3D2-1295-433F-BB58-6A1C8E9B2EE2	3028	Blood Draw	0.310	SPECT	40	129.0	[Not Available]	[Not Available]	[Not Available]	1
+5A3EF1CB-C98E-473A-B097-20307B04BC1B	TCGA-DU-A7TC	7DD195F0-39A5-4DCA-AD5C-36C56BF1A57D	0	Blood Draw	0.171	SPECT	40	233.9	[Not Available]	[Not Available]	[Not Available]	1
+E349D8AA-BB82-4CE8-B14C-61216289F25B	TCGA-DU-A7TD	D54B7F35-8F22-45E4-BBAB-701C1490A62D	0	Blood Draw	0.364	SPECT	40	109.9	[Not Available]	[Not Available]	[Not Available]	1
+62EC50E7-636E-46C6-AFED-66BF217B59C1	TCGA-DU-A7TG	CD4536EB-3190-4074-9303-7C5EEE8472FD	0	Blood Draw	0.684	SPECT	40	58.5	[Not Available]	[Not Available]	[Not Available]	1
+BA910760-EBB5-41BA-81A1-C5355E3D3087	TCGA-DU-A7TJ	FBEA3F8B-2A58-4BE7-9FA5-7318F6B50667	21	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+457EC7F6-8612-4641-AAEF-8A7F2C44C30C	TCGA-E1-A7YD	33FB3604-E151-4A10-8690-9791299B19E1	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+F842F756-CE78-4C99-BCF8-3BCE18A4D9EF	TCGA-E1-A7YE	7A0749B2-B1A4-4253-A5CD-D11B6D7B6687	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7	TCGA-E1-A7YH	C793638C-0319-4106-B768-972FCE414972	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5795A884-B62A-46A9-81D6-F24058424660	TCGA-E1-A7YI	2A0D0A32-F9B9-4D55-8890-FED70F691E01	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+BC6FBB3C-870D-40B5-983B-7C88705E020D	TCGA-E1-A7YJ	86AD9016-851C-4D15-B3F8-297A4BD811F9	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+BB4A30D5-4EBA-45DB-B05A-BD843044D508	TCGA-E1-A7YK	1C15140C-FF51-4528-B156-890CEC208559	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+96D9249E-501C-49E0-9559-01DA978A9CA6	TCGA-E1-A7YL	96D70810-67DD-4165-80AC-D7C6E6521E7A	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4250AC3C-C8B0-46CE-B9C8-7963BC386041	TCGA-E1-A7YM	A9DEC3BF-F8A8-412B-AA15-EC3A178C4418	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+BCC17E9A-6FE3-44FF-963C-D2D850A431F1	TCGA-E1-A7YN	2E26111F-2839-4CC5-8092-C0F611ED13B7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+992452EE-8D9F-406B-9708-7BCB60062743	TCGA-E1-A7YO	FF9F7C97-FF7E-441C-81C4-5068D0A4A3BA	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+75DBC8FB-4DB8-4764-824C-ECCF3A223884	TCGA-E1-A7YQ	02798C82-FC94-4148-B51A-EE181E4F7990	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5E2539E0-2088-43DF-AD2A-F854D8BB6D30	TCGA-E1-A7YS	7C7488D9-80A7-4B09-BAB0-40FDD75B95DA	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+FC3948FB-DF27-4149-BBFB-04443DFECC19	TCGA-E1-A7YU	41ACC952-3AE3-410A-B90B-81FB1C485A45	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+23C335F6-5749-4443-8AE8-61CCCBB137CB	TCGA-E1-A7YV	F1FC8AA3-9421-4905-B3FA-464AAC5B5F20	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5EEF573E-6A44-4DC7-8AA7-B136863CE910	TCGA-E1-A7YW	75EBA787-C6BA-45E9-8934-D2BF52D205D1	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+722C172F-46E6-47A1-82E5-3207278DF89B	TCGA-E1-A7YY	63F39612-E08D-4E08-8ED5-1836BEF672D7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+97FFBE14-9070-4A5A-8760-225A88834B40	TCGA-E1-A7Z2	7CE9E8AE-16F8-45D0-AB8B-84385663EAF7	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+3AC41CC6-5DFB-40A1-BD13-5DC7CA2BB6F3	TCGA-E1-A7Z3	9F9F7837-44E3-427C-AEC9-BCF7FEADCF1C	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+975E17C2-B93C-4D45-8A85-786F365E4A93	TCGA-E1-A7Z4	511CE47F-E6B4-4519-947A-EDA34E49A4D4	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+8B10F00F-FDE6-423D-BC36-027931359A5A	TCGA-E1-A7Z6	E348B3E9-DE75-42B2-B678-B0FF7AC00447	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C6CEB220-282E-4EEF-8D36-4CE0A625CF7E	TCGA-FG-A70Y	C213D56A-0DF0-456D-B64B-BA6C2FAAF5CD	20	Blood Draw	566.48	Qubit	20	35.31	[Not Available]	[Not Available]	[Not Available]	1
+C6CEB220-282E-4EEF-8D36-4CE0A625CF7E	TCGA-FG-A70Y	DD897ECE-136A-4E26-BDC7-78E8482768B6	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+77472095-030D-4679-921D-8E8E217956C5	TCGA-KT-A7W1	0522DF91-E6FD-4C19-9C80-AFF545653E7D	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+048056CD-39DD-4134-A58B-70BEBB3DD2FF	TCGA-S9-A6TV	DC251130-A0D1-40E2-9290-6AA892547346	-13	Blood Draw	2.058	nanodrop	25	12.15	[Not Available]	[Not Available]	[Not Available]	1
+048056CD-39DD-4134-A58B-70BEBB3DD2FF	TCGA-S9-A6TV	A14D155B-200D-48A4-9AF3-254972557EE7	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+A2202233-4A83-4163-9532-B6EDB9941453	TCGA-S9-A6WO	4E77179D-EBFF-4E77-A7EE-E3AFC35060B5	-2	Blood Draw	0.546	nanodrop	25	45.79	[Not Available]	[Not Available]	[Not Available]	1
+081B6532-0ED4-445A-BECB-CB2290F4854D	TCGA-S9-A6WP	F84847CB-89E6-4D6E-8F3D-99EDAB675BA6	-2	Blood Draw	0.4718	nanodrop	25	52.99	[Not Available]	[Not Available]	[Not Available]	1
+14E6C57D-D78E-4660-A21F-4F90A4503080	TCGA-S9-A6WQ	DFAA01FE-A76A-4948-9795-7E4AB728E551	-6	Blood Draw	0.315	nanodrop	25	79.31	[Not Available]	[Not Available]	[Not Available]	1
+CC451E2A-FA85-42D7-B7AF-9FC0166945FA	TCGA-S9-A7IQ	40587D1A-4F99-4740-9A55-0135BAF30FC6	-13	Blood Draw	0.449	nanodrop	25	55.68	[Not Available]	[Not Available]	[Not Available]	1
+F6A81D81-7DF4-4273-8A86-E0CD3B8B1DF5	TCGA-S9-A7IS	6B168E29-A7C4-4FD9-B4AE-680996ACEBC6	104	Blood Draw	0.099	nanodrop	25	252.53	[Not Available]	[Not Available]	[Not Available]	1
+A80B0FAB-6189-497F-997F-77234B69179C	TCGA-S9-A7IX	864ED1BE-2AB6-4BEB-9086-C34A97E239AE	-1	Blood Draw	0.347	nanodrop	25	73	[Not Available]	[Not Available]	[Not Available]	1
+94B95C07-5F70-4A1B-B40F-DC13F6A160D5	TCGA-S9-A7IY	D6C031FC-E32E-4705-BFC6-D68F8D52B776	-2	Blood Draw	0.721	nanodrop	25	35.00	[Not Available]	[Not Available]	[Not Available]	1
+01A13ABA-74A4-4895-A5AD-E5119925C202	TCGA-S9-A7IZ	4D098213-CA1A-434B-8620-9DEE9E43C225	-2	Blood Draw	0.4018	nanodrop	25	63.00	[Not Available]	[Not Available]	[Not Available]	1
+6A8241A8-D9EE-414B-89FD-4C3B9F181CC7	TCGA-S9-A7J0	196D8DBF-5730-4CDF-A23A-8F9075F5D20D	-3	Blood Draw	1.23	nanodrop	25	21.00	[Not Available]	[Not Available]	[Not Available]	1
+33BEDFB7-33FB-479D-B997-50C3284C0AC9	TCGA-S9-A7J1	A8293D3E-F994-4317-A6CB-10CA4DDDFC9D	-14	Blood Draw	0.385	nanodrop	25	65.00	[Not Available]	[Not Available]	[Not Available]	1
+194E8231-E8D4-477F-8C62-E11F2484ECCE	TCGA-S9-A7J2	19D8FE62-E60C-4977-82A1-F34577D566BB	-2	Blood Draw	0.299	nanodrop	25	84.00	[Not Available]	[Not Available]	[Not Available]	1
+032096A6-1923-44B9-A1CB-181BED041C8E	TCGA-S9-A7J3	4B79BC18-067B-4953-B4E5-D753456A0407	-13	Blood Draw	0.573	nanodrop	25	44.00	[Not Available]	[Not Available]	[Not Available]	1
+765588AA-075F-477F-9C18-099D018D3A1B	TCGA-S9-A7QW	3407F4E4-02EF-49AA-BEA0-F7C496AD7371	-3	Blood Draw	0.446	nanodrop	25	56.05	[Not Available]	[Not Available]	[Not Available]	1
+427F4D23-2B76-4A2A-A498-0C3473F57169	TCGA-S9-A7QX	E1D84396-39F6-4A92-A4D6-AFFD16E47C66	-2	Blood Draw	0.467	nanodrop	25	53.53	[Not Available]	[Not Available]	[Not Available]	1
+94A2FF09-F7AC-4AEA-A2B2-0DC1B82AE635	TCGA-S9-A7QY	3DA4960D-F2EB-4913-A587-2A989D7F0DFF	-1	Blood Draw	0.2354	nanodrop	25	106.20	[Not Available]	[Not Available]	[Not Available]	1
+79627774-078D-4056-84B3-F1F370F643E0	TCGA-S9-A7QZ	59F04BA8-847E-4A34-BCEA-37E5CCFCB6E6	-2	Blood Draw	0.337	nanodrop	25	74.18	[Not Available]	[Not Available]	[Not Available]	1
+78A212BC-A740-46BF-A10D-0B9809A5BB3F	TCGA-S9-A7R1	FEAB9AF5-9B32-437C-BCE3-A1DABAF68785	3637	Blood Draw	0.739	nanodrop	25	34.00	[Not Available]	[Not Available]	[Not Available]	1
+8E44FB97-C649-4056-80AC-257CEF61D226	TCGA-S9-A7R2	519AC76E-488F-427D-BA6D-DA13A906CEB8	0	Blood Draw	0.289	nanodrop	25	86.50	[Not Available]	[Not Available]	[Not Available]	1
+B7395082-415B-4AB3-BF1E-59D0F4E4B488	TCGA-S9-A7R3	0DDAB3B9-B1BF-4561-82D7-568C92F4D347	970	Blood Draw	0.473	nanodrop	25	53.00	[Not Available]	[Not Available]	[Not Available]	1
+58650D08-7685-41DE-9AE0-21665F8F449F	TCGA-S9-A7R4	1810F771-6FAA-4EC3-9DAE-45D7B10B47DF	-6	Blood Draw	0.357	nanodrop	25	70.00	[Not Available]	[Not Available]	[Not Available]	1
+A6975EB0-CFA6-4B7A-BBE4-72BBDD3D3B6F	TCGA-S9-A7R7	070446B7-2054-4590-8497-27ED081B3C46	2	Blood Draw	0.457	nanodrop	25	54.70	[Not Available]	[Not Available]	[Not Available]	1
+7883E417-A793-4614-9528-6C2E9E44379F	TCGA-S9-A7R8	56298324-51DF-4C62-BB6C-4B311BA2A2F1	786	Blood Draw	0.129	nanodrop	25	194.00	[Not Available]	[Not Available]	[Not Available]	1
+6EF2D9AB-F72E-48CF-92B8-F3159D28160C	TCGA-TQ-A7RH	F6B948BD-3385-4CB2-A648-FBC4FCD67959	143	Blood Draw	0.374	AS 1010 PROMEGA	15	40.1	[Not Available]	[Not Available]	[Not Available]	1
+7116CE06-D730-40E4-92D7-AEF1F869B1D5	TCGA-TQ-A7RP	D30CC642-F804-4413-9489-598B164257E9	522	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+607B1F22-B744-43C5-91F7-FC69142BA30E	TCGA-TQ-A7RR	641BEE37-5A1B-40E0-8C92-B7197F57C97A	402	Blood Draw	0.287	AS 1010 Promega	21.895	250	[Not Available]	[Not Available]	[Not Available]	1
+B19DCBC2-B0D4-4759-9213-1A5B99DF7E76	TCGA-TQ-A7RU	EFAF0F0A-327A-4335-8E9B-5203E60ED286	775	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+5A3EDEB6-133E-4116-9F80-2485BD70754D	TCGA-TQ-A7RV	F4D24E86-719B-430E-841F-DFDB5D218ED6	1439	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+784ECAA5-7FB8-402A-8240-396AAD96BE83	TCGA-F6-A8O3	E9909EBF-4D48-4C82-999A-964B83420F96	-1	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+735B1100-07F6-43D4-B29C-46D0F025573F	TCGA-F6-A8O4	05CAAE6A-0259-4DCC-981D-18A5BE2D2A29	-2	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+872A12B4-8CBD-49D2-AC98-D846587F5794	TCGA-FG-A87N	5CB3E44D-CD32-40C1-B756-460072F17723	43	Blood Draw	103.6	qubit	20	193.1	[Not Available]	[Not Available]	[Not Available]	1
+7E17E6FD-ED83-471F-91E3-5934885C8E87	TCGA-FG-A87Q	509AEDB6-4F82-4572-9BF1-D96A04BC1D34	1	Blood Draw	182.4	qubit	20	109.6	[Not Available]	[Not Available]	[Not Available]	1
+A96BCA45-ECC7-44F6-ACB6-48B0CEC3DE4D	TCGA-QH-A86X	D706B06A-1358-4AE0-8EA6-E70DD82F7DC0	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+345D975C-E666-4614-81EB-5CCBB5BD2CF7	TCGA-QH-A870	84CD45F1-B1BD-4542-9799-6E0B2BE239B2	-7	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+739CC9F1-71BE-4F81-A5D1-EDA673903E45	TCGA-RY-A83X	FDF66680-C0E4-4CFF-B364-40F7C4E7A276	[Not Available]	Blood Draw	0.659	NanoDrop	15	22.767	[Not Available]	[Not Available]	[Not Available]	1
+172701CF-709B-4E8F-B2FA-E2690A9E272D	TCGA-RY-A83Y	E6A486C5-1C06-43B0-B243-3D89FBBB5572	[Not Available]	Blood Draw	1.088	Nanodrop	15	13.787	[Not Available]	[Not Available]	[Not Available]	1
+145C3685-F6DE-4669-8EC4-6C3431A90532	TCGA-RY-A83Z	B0E5DA88-DC63-43CD-BECB-D02E10D93E0D	[Not Available]	Blood Draw	0.736	Nanodrop	15	20.375	[Not Available]	[Not Available]	[Not Available]	1
+738143B3-2D82-42F0-9FD4-8CBABC9C9B4F	TCGA-RY-A840	FA252999-283A-4DDC-84B5-17257939CC73	[Not Available]	Blood Draw	0.435	Nanodrop	15	34.446	[Not Available]	[Not Available]	[Not Available]	1
+1F2F3BF6-ACDD-4A72-8C33-230DE40910EB	TCGA-RY-A843	C5AD5412-C094-4B6B-BAAF-F28E81C768AC	[Not Available]	Blood Draw	0.559	Nanodrop	15	26.840	[Not Available]	[Not Available]	[Not Available]	1
+36615695-921C-4C8A-93D6-6C788079BEAE	TCGA-RY-A845	1B7BAE2F-BEEB-4956-8077-00D0C43E0425	[Not Available]	Blood Draw	0.611	Nanodrop	15	24.570	[Not Available]	[Not Available]	[Not Available]	1
+FFF304A2-113F-499D-A88C-9D3660C348D9	TCGA-RY-A847	DE63D37E-A51E-4CF6-9DF5-C5650BE56EDF	[Not Available]	Blood Draw	0.526	Nanodrop	15	28.513	[Not Available]	[Not Available]	[Not Available]	1
+C4F522C9-BFF5-4899-8D27-C105DAB795A9	TCGA-S9-A89V	68554C48-8E73-432D-A3D0-455F42EBD067	-31	Blood Draw	0.76	nanodrop	25	32.89	[Not Available]	[Not Available]	[Not Available]	1
+CC8614C4-D535-4AD9-82F0-F4DC7AD11D0F	TCGA-S9-A89Z	7EE37EA7-47B1-4D74-9470-FC3FF723AD0A	-9	Blood Draw	0.4754	nanodrop	25	52.59	[Not Available]	[Not Available]	[Not Available]	1
+EE6BF12F-8A73-49E2-B566-368B2B42165B	TCGA-TM-A84B	9CF73E44-B1CF-49BE-B022-FA4D92C4A2F7	290	Mouthwash	0.341	nanodrop	15	44	[Not Available]	[Not Available]	[Not Available]	1
+8643437F-CD1B-47C8-86BD-87B6C2F80747	TCGA-TM-A84C	A6AAFF00-FDF4-4DF4-A3EA-7B747315B974	327	Mouthwash	0.263	nanodrop	15	57.1	[Not Available]	[Not Available]	[Not Available]	1
+3B68B6FF-7EFB-4D53-8BD8-C76CD68AB7C0	TCGA-TM-A84F	3C11FFF8-23E5-4CEA-9240-E90042BF59A0	1	Blood Draw	0.490	NANODROP	15	30.6	[Not Available]	[Not Available]	[Not Available]	1
+63F4AA26-DEC0-4309-8B75-6446A7241527	TCGA-TM-A84G	413BD2A4-9B0A-499D-BECC-F54CE3815470	1	Blood Draw	0.260	NANODROP	15	57.69	[Not Available]	[Not Available]	[Not Available]	1
+EDBF86E5-3F55-4DDF-A97F-3E9DC607E53D	TCGA-TM-A84H	BDE2CE9C-1D1E-474D-B0D0-CB282F0AC408	121	Blood Draw	0.224	NANODROP	15	66.96	[Not Available]	[Not Available]	[Not Available]	1
+71EC4C84-4AEF-4C1F-AB07-DC264C5C0602	TCGA-TM-A84I	32F1F7DC-DE51-4AB0-9E0F-963CCC97BECB	83	Blood Draw	0.653	NANODROP	15	22.97	[Not Available]	[Not Available]	[Not Available]	1
+B3720405-CE3F-49C7-A5D9-BBFFD06F6AEF	TCGA-TM-A84J	E54975A1-D709-45D3-9415-09DACA8A22D3	61	Blood Draw	0.455	NANODROP	15	32.97	[Not Available]	[Not Available]	[Not Available]	1
+9B161C41-4F76-4ED1-B60F-2B093BC70EDB	TCGA-TM-A84L	4439AC4C-7AF1-42D9-BB8F-48ACF7B1EFEA	1048	Blood Draw	0.649	NANODROP	15	24	[Not Available]	[Not Available]	[Not Available]	1
+61FF31A4-4FDC-476C-B456-2A2FED4BAE6B	TCGA-TM-A84M	2DD77B2F-478B-4717-9279-020B18AC0DA0	138	Blood Draw	0.329	NANODROP	15	46	[Not Available]	[Not Available]	[Not Available]	1
+8839F236-BC04-416F-84D4-50F67FB338DC	TCGA-TM-A84O	6153E5A8-29A5-40EA-845B-97A47C35D93C	-1	Blood Draw	0.059	NANODROP	15	255	[Not Available]	[Not Available]	[Not Available]	1
+FCF14E9D-4671-453D-B8E0-5008E916F56D	TCGA-TM-A84Q	1A1D0828-F922-4BEA-ABBC-04286FB328E9	0	Blood Draw	0.149	NANODROP	15	101	[Not Available]	[Not Available]	[Not Available]	1
+21BBE030-8DBB-47EB-A670-13EB57C12159	TCGA-TM-A84R	5C972E21-BE61-4AB1-A7F1-93BC7B3C71F3	0	Blood Draw	0.448	NANODROP	15	33.48	[Not Available]	[Not Available]	[Not Available]	1
+CD50AEA8-A5DB-48D3-AD28-CBE9F9E75AE3	TCGA-TM-A84S	57866546-871E-45E8-8A92-293B60762CEC	0	Blood Draw	0.17	NANODROP	15	88.24	[Not Available]	[Not Available]	[Not Available]	1
+F9052682-B689-4696-9AB9-3F55976B43EE	TCGA-TM-A84T	6ED37405-F4D1-4DAB-B18C-104841DCCC22	197	Blood Draw	0.232	NANODROP	15	64.66	[Not Available]	[Not Available]	[Not Available]	1
+135A149A-D153-465E-AA58-06D47BB18E00	TCGA-TQ-A8XE	AA9965CE-6A23-4F0B-9374-05192D5E5AA7	1282	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+A66A3847-7570-4486-8845-86B6125104A2	TCGA-VM-A8C8	410F7F7A-A3D1-4B8C-9C0F-25C8E3786F1B	181	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+50975570-C0D5-4EE7-9226-40B3DB1BDE84	TCGA-VM-A8C9	8D539F12-BE23-4743-BFC4-DCA2D7DB75BC	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+CDD1FD4C-3427-496C-8391-4AEB6730D3CC	TCGA-VM-A8CA	53271EC7-3DF9-4146-A352-E16E7D28E79C	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+33600812-1894-4471-A365-75AE4D990B72	TCGA-VM-A8CB	71887EF1-950C-47A6-AFBD-77C982C145A5	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B3F0DECE-94E8-4EAF-91BC-4B3F4DAE12D2	TCGA-VM-A8CD	6785570C-9DE0-4632-B4B7-3D2B08348314	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+66C52A31-6503-40B5-A55E-FA476EAF0567	TCGA-VM-A8CE	5DD5716F-AF08-422C-A00B-F12C000C65A8	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0073A136-D5F4-4FD6-88F9-711768F2ABC6	TCGA-VM-A8CF	4B24379C-7309-46CF-B95C-BC301EE7B9BE	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+484DD45B-A16C-4650-BAC9-832FBE4D96EB	TCGA-VM-A8CH	A7797A5B-88F4-4FC9-8F96-6A7438E8CDD4	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+10887E42-444D-49FC-AEE5-DD0E9FC4EA54	TCGA-VV-A829	30810404-5495-43EE-BD6B-2B79882984A9	639	Blood Draw	0.1	picogreen	16	160	[Not Available]	[Not Available]	[Not Available]	1
+284680B2-F961-402D-8740-E5F9E4FB4A98	TCGA-VV-A86M	69365FB3-9E63-48E5-9F7D-51805D7110B5	61	Blood Draw	0.1	picogreen	16	160	[Not Available]	[Not Available]	[Not Available]	1
+4FB16AEE-DF08-441A-846B-558E0EFE8342	TCGA-VW-A8FI	18844526-0BF6-49E7-B3D3-D7D53B35088C	-2	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+732DF38E-D32C-4D63-AC97-AD655E2E5732	TCGA-W9-A837	881B33A7-0C19-4056-B16C-33737C68423C	0	Blood Draw	0.06428	Pico Green	45	700	[Not Available]	[Not Available]	[Not Available]	1
+42156C6A-416E-4832-9C95-CEE6084B0910	TCGA-WH-A86K	867275E3-E749-4B8D-822F-2CADB9ACB27E	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C8700CA3-8C0B-4B2A-9E87-79D244A0F892	TCGA-WY-A858	56C51F05-D7DD-47AE-8A73-1E56DD8F5504	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+DE6F01BF-2DE9-4D07-A956-E6A4C0ACB371	TCGA-WY-A859	A0E6F5E0-54C2-48E4-9F09-F60F54EFB951	21	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+09552B53-4393-4811-A671-A9EF6EFF4790	TCGA-WY-A85A	074D144C-80CC-4052-B3FD-3448CCA16C8A	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+CB041720-0EFA-4EB6-A9A5-B6E138BB1A99	TCGA-WY-A85B	BF999D5F-25A8-4134-9CE7-9ED575ED31A0	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+F62BE2B8-88C4-4A7E-8C80-8176FB5F6C56	TCGA-WY-A85C	19763390-FBD0-4ACC-AFA9-7B2B892F4595	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+0D5A4C63-C3FB-4295-A433-D90CDBFC4ED6	TCGA-WY-A85D	F6323D3B-7E53-4FE7-B2E0-7DE3C3AF943F	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+2272DFF7-A509-496F-B500-467C1BCE2F79	TCGA-WY-A85E	125A1F77-2433-4D14-B0D1-DFC19D57235C	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+fc222f23-b3b2-4ac0-bc61-e8e8fa5cc160	TCGA-CS-4941	fc331aa4-2641-4a1f-9aa2-64c8829438e0	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+230f5fa7-aa36-41ea-b40b-08f520767bd5	TCGA-CS-4942	15412fcf-b1da-4a78-b620-e21352d7484c	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+952dfd5d-e65a-4307-b6a9-2ed2b0d2d9ce	TCGA-CS-4943	734ae1a1-7e0f-41a5-8ccb-347674280f9f	10	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+64cd17eb-c778-45e9-b994-02b68182e51b	TCGA-CS-4944	7a4dc30f-0128-4baf-b6cc-91773bf41e45	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+c6cf2b8e-40ed-4c9f-8419-d868bd5afe11	TCGA-CS-5390	58e6e983-2372-49b9-893a-7dfaaef9ddd0	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+e8d3d888-e5fc-4469-ad0b-2c1df6e04790	TCGA-CS-5393	17604a21-c8dc-4860-96f1-60d85e46a609	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+97bf8065-3e7d-4702-a426-24908f4d66a4	TCGA-CS-5394	cc070c40-d90f-4714-94e6-24a9dee53131	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+f86fa219-34e9-4812-8edf-2b66d7219779	TCGA-CS-5395	69663bc6-88fd-4864-a968-fc80ae2ad55b	-3	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+b6c2c9bd-625b-4a98-830c-49c344f6cb5f	TCGA-CS-5396	8129e5ac-be68-40ad-87ed-442dffe9034a	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	2
+b7cd3b44-ef6a-4207-a44f-14f5b3b56ed4	TCGA-DB-5270	2ad3a620-5ab5-47c0-acc1-4d4fe6966e2e	1106	Blood Draw	244.96	nano drop	20	81.64	[Not Available]	[Not Available]	[Not Available]	1
+ae2db022-eb4f-4b65-89b6-9fd4439ddeef	TCGA-DB-5273	3c8435a1-e37c-417e-b3d7-27f4e15014ed	17	Blood Draw	384.33	nano drop	20	52.03	[Not Available]	[Not Available]	[Not Available]	1
+0b54cda4-7568-481e-b0c6-2c5c6de0026c	TCGA-DB-5274	bc9b8d75-bd07-427c-8bbf-dccd8f319b51	73	Blood Draw	192.31	nano drop	20	104	[Not Available]	[Not Available]	[Not Available]	1
+bbfb5399-8d43-4b75-bf90-23ec142697d7	TCGA-DB-5275	9ab65c8c-b44a-446e-9e5a-00c1dec5897d	100	Blood Draw	390.52	nano drop	20	51.21	[Not Available]	[Not Available]	[Not Available]	1
+9d0c1552-00a7-4f0a-a04a-a82e721ee4e3	TCGA-DB-5276	bc639e06-8f9c-4759-b158-c03ec8e9dbf4	52	Blood Draw	313.39	nano drop	20	63.82	[Not Available]	[Not Available]	[Not Available]	1
+d05079f2-9883-46e6-ad06-9e561f08d819	TCGA-DB-5277	26778621-732f-4d22-8404-ad3a59d6641d	33	Blood Draw	410.95	nano drop	20	48.66	[Not Available]	[Not Available]	[Not Available]	1
+010aac75-3bfe-4bf2-b866-af0f2d92f125	TCGA-DB-5278	afdafc3c-5d20-453e-80cc-ae12494ef693	230	Blood Draw	134.05	nano drop	20	149.2	[Not Available]	[Not Available]	[Not Available]	1
+85f77526-791e-47cd-904d-d1dbb49eaeab	TCGA-DB-5279	9f564bdc-2e24-4a53-a50b-b23522cd7798	264	Blood Draw	268.43	nano drop	20	74.51	[Not Available]	[Not Available]	[Not Available]	1
+4797c600-f024-42fe-b287-d919b24dcb79	TCGA-DB-5280	b21973cb-382f-4b36-bad8-973286c32fa8	117	Blood Draw	313.29	nano drop	20	63.84	[Not Available]	[Not Available]	[Not Available]	1
+15a6ad18-a81c-4f5b-80ae-ef56ccf722f9	TCGA-DB-5281	7473156a-af0d-4ac9-a27b-aa4f6b179dcd	32	Blood Draw	45.45	nano drop	20	440	[Not Available]	[Not Available]	[Not Available]	1
+2c03e8b9-8856-43a7-853d-5ec51a6e5330	TCGA-DH-5140	1ca08e8d-1d12-47b9-818b-f03b35c4a62c	-1	Blood Draw	.150	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+2cf49bac-dea1-45ff-9e1d-09f5a2ac5215	TCGA-DH-5141	77975b8c-16ce-4a3c-b277-6a64b4b343b0	853	Blood Draw	0.15	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	2
+5b744051-7355-4e15-b035-0621e709a5d7	TCGA-DH-5142	2b991110-2930-47c2-97b7-1fffe7085873	-1	Blood Draw	150	Spec	0.15	1000	[Not Available]	[Not Available]	[Not Available]	1
+dcd0856d-423a-40d7-8070-4c0988d61416	TCGA-DH-5143	d5e50908-ddb0-4887-b6c3-63038ad511b8	-1	Blood Draw	.150	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+083c0b78-88c2-4ec1-8a81-a0792b16e2cc	TCGA-DH-5144	fcd16972-3ae6-474e-93a0-e14d4300dc68	-2	Blood Draw	.150	Spec	150	1000	[Not Available]	[Not Available]	[Not Available]	1
+837b51d0-e6b7-431b-a5f3-7615bdf12b67	TCGA-E1-5302	3398c003-8b5c-46ce-8bf2-b45399fb5708	39	Blood Draw	0.65	Nano drop	20	31	[Not Available]	[Not Available]	[Not Available]	1
+44a5c3b4-62a7-407b-b492-7069e1a43a26	TCGA-E1-5303	3ce7ead9-20c2-44b3-96f7-8425ae307cd6	37	Blood Draw	1.325	Nano drop	20	15	[Not Available]	[Not Available]	[Not Available]	1
+691d5202-90cc-4e08-83a3-0620a89d3a4b	TCGA-E1-5304	5a419aca-e47d-41de-9a46-06d72b7f96ba	8	Blood Draw	1.25	Nano drop	20	16	[Not Available]	[Not Available]	[Not Available]	1
+0061e9ef-df6a-414e-af64-c88f8192e2d3	TCGA-E1-5311	daa4722a-c895-4bb9-8f8e-093bddf05051	-5	Blood Draw	0.415	Nano drop	20	48	[Not Available]	[Not Available]	[Not Available]	1
+400b2fa3-baf7-4baa-99b4-88b9f25b5049	TCGA-E1-5318	a4858873-bb17-406b-a752-1bf230b512c3	-2	Blood Draw	0.535	Nano Drop	20	37	[Not Available]	[Not Available]	[Not Available]	1
+5ea230a6-77aa-4aa5-867c-09651d481d8b	TCGA-E1-5322	0143d0a2-2a79-4add-8788-253c4c719863	4	Blood Draw	1.475	Nano Drop	20	14	[Not Available]	[Not Available]	[Not Available]	1

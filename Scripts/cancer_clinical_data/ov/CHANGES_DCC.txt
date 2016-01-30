@@ -1,0 +1,22 @@
+CHANGES for revised archive nationwidechildrens.org_OV.bio.Level_2.0.31.0 compared to archive nationwidechildrens.org_OV.bio.Level_2.0.30.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_biospecimen_aliquot_ov.txt	R
+nationwidechildrens.org_biospecimen_analyte_ov.txt	R
+nationwidechildrens.org_clinical_drug_ov.txt	R
+nationwidechildrens.org_clinical_follow_up_v1.0_ov.txt	R
+nationwidechildrens.org_clinical_patient_ov.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

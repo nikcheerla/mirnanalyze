@@ -1,0 +1,72 @@
+bcr_patient_uuid	bcr_patient_barcode	bcr_sample_uuid	days_to_normal_sample_procurement	method_of_normal_sample_procurement	ncedna_dna_conc	ncedna_dna_qm	ncedna_dna_qty	ncedna_dna_vol	normal_control_type	normal_tissue_anatomic_site	normal_tissue_proximity	vial_number
+	CDE_ID:2673794		CDE_ID:3288496	CDE_ID:3288147	CDE_ID:3288187	CDE_ID:3288186	CDE_ID:3288185	CDE_ID:3288188	CDE_ID:3081936			
+41B97B11-ACAA-4FBC-B3B0-0ABC1BCAC13B	TCGA-3X-AAV9	8768721D-F45F-4DBF-9F7C-123EB51854BC	-50	Blood Draw	0.2059	NanoDrop	20	97	[Not Available]	[Not Available]	[Not Available]	1
+FE57B639-DB7A-460F-ADFE-552F1E034E46	TCGA-3X-AAVA	B4EC38E1-DF29-4646-9521-9D3D2BCE173C	0	Blood Draw	0.2275	NanoDrop	20	88	[Not Available]	[Not Available]	[Not Available]	1
+3824CD6D-C85C-4B21-819A-932D1AFEF976	TCGA-3X-AAVB	6FEF7D21-FE19-47A7-A411-4ACAA97F157B	0	Blood Draw	0.1352	NanoDrop	20	148	[Not Available]	[Not Available]	[Not Available]	1
+FF4131C9-537C-46CC-B495-9AF60D431F5E	TCGA-3X-AAVC	D1963B41-3A2A-4DCD-9F12-D141B2E9BEEC	-6	Blood Draw	0.1287	NanoDrop	20	155	[Not Available]	[Not Available]	[Not Available]	1
+DCC87C59-FD8C-4511-9983-96D5B9784CB0	TCGA-3X-AAVE	4A5BD222-0652-4E8F-A297-77095E15377C	-21	Blood Draw	0.189	NanoDrop	20	111	[Not Available]	[Not Available]	[Not Available]	1
+0775583E-C0A0-4F18-9CA2-8F89CEDCE3D6	TCGA-4G-AAZO	F3A472A2-46B6-47BE-A4A8-B208A7BA066A	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+0775583E-C0A0-4F18-9CA2-8F89CEDCE3D6	TCGA-4G-AAZO	6FEC2CC8-7579-42AE-8A4B-0EA2119E600F	590	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B10C64C2-7FD2-4210-B975-034AFFB14B57	TCGA-4G-AAZT	432AC43F-F9DB-4E60-BE3C-BBF7B2D59B7C	6	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+B10C64C2-7FD2-4210-B975-034AFFB14B57	TCGA-4G-AAZT	354C8077-9A71-407C-91A1-999D7ED34667	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+22BF93B3-C8DC-4669-862F-3E4AE478849B	TCGA-W5-AA2G	A599C1B2-DBB5-44B7-B77D-30D9825E4F74	-7	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+BC15CEC4-1F82-47FE-AE69-3853194FAB7E	TCGA-W5-AA2H	5EC32AF6-229D-4B0C-A5BA-53BCD87AF185	-18	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+3C8CA064-A4A7-416F-A069-4324D4A72038	TCGA-W5-AA2I	77C70E90-4024-485E-B7A4-1CC493ECA376	-10	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+3C8CA064-A4A7-416F-A069-4324D4A72038	TCGA-W5-AA2I	CDE3C5FE-EFA1-40CB-896B-82534D30986E	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+180A2B9C-9CAC-4D96-86E8-CD6B3B9386B5	TCGA-W5-AA2O	93FE7F5A-B672-4E15-A891-9706B7A76082	5	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+180A2B9C-9CAC-4D96-86E8-CD6B3B9386B5	TCGA-W5-AA2O	CB143099-BF51-4648-A6DE-B2974F709E05	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+F47DBD99-920B-4B39-A1B0-6C152AD24884	TCGA-W5-AA2Q	E7CF3EDF-C7D8-401A-8B3C-768FB2EFEB23	-6	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+F47DBD99-920B-4B39-A1B0-6C152AD24884	TCGA-W5-AA2Q	5A5AA04D-1111-4EF6-96AD-6EB2BE91A383	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+20BF79AF-3B0F-477D-B619-5597D42F5D5E	TCGA-W5-AA2R	7667EEB5-C976-493C-8CBF-D1CDCE24114D	-15	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+20BF79AF-3B0F-477D-B619-5597D42F5D5E	TCGA-W5-AA2R	3F83502D-82CD-4217-BBD8-938BDB31095D	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+8944FE2A-E32F-4898-A2C5-FB6751F602A4	TCGA-W5-AA2T	10166F6C-CD29-47EA-AB22-6F2B7B10AB60	-42	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+8944FE2A-E32F-4898-A2C5-FB6751F602A4	TCGA-W5-AA2T	C6199310-CA05-4544-B3EA-DE426848838A	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+AAACF22C-2362-4613-B024-88FB7DD1CCA1	TCGA-W5-AA2U	2DDCF39C-A57E-4D32-BFAE-B3BB9AE65E22	-25	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+AAACF22C-2362-4613-B024-88FB7DD1CCA1	TCGA-W5-AA2U	97AAD42E-953B-4CC1-9BBC-3C1F8AF662BD	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+1D136284-BDF5-498E-9506-4893801A337C	TCGA-W5-AA2W	EE43900B-9A8D-4EEE-A9A4-CA37B20BFEFA	-9	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+6E534DD3-81AC-4575-AB1E-02C21E10916D	TCGA-W5-AA2X	AE76953E-D3DD-4780-A58B-E3E7EB230A87	-17	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+6E534DD3-81AC-4575-AB1E-02C21E10916D	TCGA-W5-AA2X	2CF3891D-F4C1-478E-AD40-743CD4821066	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+20EC1CD9-7BDB-4EB9-9D20-65795580F1F5	TCGA-W5-AA2Z	44C8CC14-4F1E-45C7-8B95-DBBC415CDB69	-4	Blood Draw	0.1	trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+20EC1CD9-7BDB-4EB9-9D20-65795580F1F5	TCGA-W5-AA2Z	5AA97A8A-5F54-4CF8-B0A7-2BCF66655F01	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+B4F7F9E4-5FC5-4461-8E0B-0B6C384863C6	TCGA-W5-AA30	B46EDA93-E712-45F9-8793-E190697A30A8	-8	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+B4F7F9E4-5FC5-4461-8E0B-0B6C384863C6	TCGA-W5-AA30	BE72384D-C424-4553-9A80-0F37E4CED48E	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+2D6E20B2-82C7-4C12-92D0-93282B0A9031	TCGA-W5-AA31	A20D18F9-21BC-451F-B84B-302FD90C6F2F	-43	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+2D6E20B2-82C7-4C12-92D0-93282B0A9031	TCGA-W5-AA31	42AEA8F3-1D59-4567-BC60-54FC1E255484	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+5FB3AFFA-3661-48E8-A1CC-B533C862E8C5	TCGA-W5-AA33	0CD120E6-D17E-4D43-934E-F0FB74A00319	-2	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+5FB3AFFA-3661-48E8-A1CC-B533C862E8C5	TCGA-W5-AA33	F64EF549-8423-4818-8826-25BD5D01795D	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+ADC9A685-5B4A-4C29-881A-DA1895C47520	TCGA-W5-AA34	068ECE49-D2DC-4E98-A5CC-32BA42F04DAD	-3	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+ADC9A685-5B4A-4C29-881A-DA1895C47520	TCGA-W5-AA34	21DE0435-9EBB-4D1F-8579-917469DAC41C	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+F2D42E03-CA8D-4B57-AE39-0CC8F37B1B67	TCGA-W5-AA36	47EC1F16-39E6-468E-91F1-39E8AAE94D84	451	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+48D17B17-348C-405A-AE92-F190372A3AAC	TCGA-W5-AA38	5DC3E416-92E5-4D2E-94D4-FA2EEE582F68	-2	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+48D17B17-348C-405A-AE92-F190372A3AAC	TCGA-W5-AA38	8675A4EF-538F-4B3C-981E-9DD65A2D27C2	0	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+32E9558C-946B-4288-91E1-504E47C308AC	TCGA-W5-AA39	F0E030E3-163E-4A9E-8F48-95AC0DAB6029	-10	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+7047DC12-E2ED-40B7-86FD-C5C53A2766FD	TCGA-W6-AA0S	5E2AB9CB-F290-4FAF-A098-D920F82A966A	-40	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+4290B3B3-94F6-43E4-8309-430DD973AE2D	TCGA-WD-A7RX	A324CB55-7CFA-4C21-B5C8-0A11514AAED0	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+779CE92D-1ABD-44FC-9021-EDA4D7F08FFF	TCGA-YR-A95A	3A2CBD04-4677-4B89-9B56-E8514C8FFFAC	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+CCB028AE-777C-4AF6-B92E-40848F1CF774	TCGA-ZD-A8I3	2B366684-75DC-4484-8CCD-7E8032E44CEC	0	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+B16E9C3F-C7DF-46C2-BEE3-ECAEBBAB025F	TCGA-ZH-A8Y1	5CD52C8B-0F13-4987-9A57-25D34C97B49F	0	Blood Draw	0.225	nanodrop	15	58.79	[Not Available]	[Not Available]	[Not Available]	1
+47A9EF9B-04F0-4E8D-BFDB-0846BA30D08B	TCGA-ZH-A8Y2	A455D047-5295-4145-A007-A72AD0826AA4	-4	Blood Draw	0.255	nanodrop	15	58.79	[Not Available]	[Not Available]	[Not Available]	1
+95B69517-4971-450E-9ED0-43BC8B2C0534	TCGA-ZH-A8Y4	AFFAF2A9-3339-4B82-BBBC-D2FD1F95FED5	-210	Blood Draw	0.216	nanodrop	15	69.45	[Not Available]	[Not Available]	[Not Available]	1
+9D9109F5-5917-4126-8E34-8A7E4632E913	TCGA-ZH-A8Y5	E73FD1AC-2D37-4AD3-B036-0F043A421608	-13	Blood Draw	0.208	nanodrop	15	72.08	[Not Available]	[Not Available]	[Not Available]	1
+5166D82F-7B22-4101-BEA9-6056E5A74C48	TCGA-ZH-A8Y6	1A2E493E-A16C-4A05-B319-4FB80B4563D5	-1	Blood Draw	0.133	nanodrop	15	113.04	[Not Available]	[Not Available]	[Not Available]	1
+5CF3911A-F3EA-4C0E-851D-5BB57CA7190F	TCGA-ZH-A8Y8	CBA708C0-9BA6-47EA-B61E-AA2EF6319CCA	-22	Blood Draw	0.223	nanodrop	15	67.22	[Not Available]	[Not Available]	[Not Available]	1
+E76CF9A0-061E-4A7D-BA28-5A40B8DA54B8	TCGA-ZU-A8S4	59D9699B-B51E-4CE8-8A05-37BF1BB461B4	304	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+E76CF9A0-061E-4A7D-BA28-5A40B8DA54B8	TCGA-ZU-A8S4	E6CF7F37-B510-4BF7-AA8D-BCC400E799A3	304	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+1932BC1E-2A15-4F74-978E-D49C366604A4	TCGA-4G-AAZF	14404181-0FAC-476E-AFC0-B5C425647A78	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+C60EB7BE-C85C-4338-A20B-51948D43BF2A	TCGA-4G-AAZG	FB6E10CD-F07B-4113-8CAD-668E64542D74	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+C60EB7BE-C85C-4338-A20B-51948D43BF2A	TCGA-4G-AAZG	9EC2CCF5-8868-4A93-8375-773FE0F0B1C5	[Not Available]	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+57500D4C-4BB3-4F32-AE3A-A0B78F18C526	TCGA-4G-AAZR	377FA557-9B31-4ADA-B3D2-C7C2AB8150AA	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+7F08F522-08FF-4B30-AA5B-E69CF15041C9	TCGA-5A-A8ZF	BE1DEF9F-F4EF-4934-BC95-CB889E7F6863	[Not Available]	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+C8E57F03-AC69-49BB-954B-4C40FE371F75	TCGA-5A-A8ZG	0E19527E-9F04-4BD7-8E86-AA33EA13309B	[Not Available]	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+3F7E0CBF-E48C-410A-9138-BE9B373FEF73	TCGA-W5-AA2J	29443642-2868-4FB8-BFAE-387A20B8F491	[Not Available]	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+859ED2D9-668D-440C-86AB-DCD0D9742973	TCGA-W5-AA2K	136DC94F-5A97-4CB5-A015-4CDE25550802	[Not Available]	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+859ED2D9-668D-440C-86AB-DCD0D9742973	TCGA-W5-AA2K	7709880B-3C59-4F40-8C52-37D7BA872444	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+BEC2CF62-44A2-42E5-8E10-440AAD69ED77	TCGA-W5-AA2M	75EEB1CD-4E72-4E34-80F8-AC8E30DDE411	[Not Available]	Blood Draw	0.1	Trinean	15	150	[Not Available]	[Not Available]	[Not Available]	1
+BEC2CF62-44A2-42E5-8E10-440AAD69ED77	TCGA-W5-AA2M	3642FDAC-5BA6-495B-B5B7-F7C8AC1D57D0	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Liver	Distal (>2cm)	1
+CB40327B-F3AC-4F0A-BB17-7DB2A281E354	TCGA-W6-AA0T	8DACA0BC-F9B2-451A-8679-C44A901AEAC2	[Not Available]	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1
+D64D8A1B-B31F-4CBB-A586-5EC7F058F0DE	TCGA-W7-A93N	2481FC31-66CA-423F-A251-5E8AACA02E4D	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Other	Distal (>2cm)	1
+15850852-5979-419D-AE38-76FFD0E9D7E8	TCGA-W7-A93O	D3AF1E52-E135-4B95-A32C-C20D796C3E0C	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Other	Distal (>2cm)	1
+AE8D1ED6-2DDF-47B0-8099-BBC9230B499E	TCGA-W7-A93P	D23203BC-0683-49A7-9137-8A0639F46F5E	[Not Available]	Surgical Resection	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	Other	Distal (>2cm)	1
+1947A152-6339-4F66-B9A4-0229580F0287	TCGA-ZH-A8Y3	58AEE992-591D-4201-8649-D87A41BFFF9E	[Not Available]	Blood Draw	0.348	nanodrop	15	43.12	[Not Available]	[Not Available]	[Not Available]	1
+37D60DF9-2FA5-433B-9E54-DCCB5ED5A638	TCGA-ZH-A8Y7	8D698468-FEDD-40C1-AA8B-E44A26958C20	[Not Available]	Blood Draw	0.237	nanodrop	15	63.2	[Not Available]	[Not Available]	[Not Available]	1
+91544F6B-90B6-45DF-A501-3097FE0C74BE	TCGA-ZK-AAYZ	D917AE5B-1488-4499-B9DA-7D8EC8E10E4E	[Not Available]	Blood Draw	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	[Not Available]	1

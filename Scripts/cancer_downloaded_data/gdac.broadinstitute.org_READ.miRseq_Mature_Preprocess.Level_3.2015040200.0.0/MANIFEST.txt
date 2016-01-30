@@ -1,0 +1,4 @@
+7c897c2167f77748644493434066ae04 stdout.txt
+606f710fc7cc1b17b8f97b8e8d67a1c2 READ.miRseq_mature_RPM_log2.txt
+e4997d7cca51db209d075d24a61805c7 READ.miRseq_mature_RPM.txt
+d41d8cd98f00b204e9800998ecf8427e stderr.txt

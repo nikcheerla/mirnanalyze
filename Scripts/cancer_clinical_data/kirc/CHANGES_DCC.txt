@@ -1,0 +1,23 @@
+CHANGES for revised archive nationwidechildrens.org_KIRC.bio.Level_2.0.29.0 compared to archive nationwidechildrens.org_KIRC.bio.Level_2.0.28.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_biospecimen_cqcf_kirc.txt	R
+nationwidechildrens.org_biospecimen_normal_control_kirc.txt	R
+nationwidechildrens.org_biospecimen_tumor_sample_kirc.txt	R
+nationwidechildrens.org_clinical_drug_kirc.txt	R
+nationwidechildrens.org_clinical_follow_up_v1.0_kirc.txt	R
+nationwidechildrens.org_clinical_patient_kirc.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

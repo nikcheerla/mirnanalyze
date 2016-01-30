@@ -1,0 +1,25 @@
+CHANGES for revised archive nationwidechildrens.org_READ.bio.Level_2.0.32.0 compared to archive nationwidechildrens.org_READ.bio.Level_2.0.31.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_biospecimen_cqcf_read.txt	R
+nationwidechildrens.org_biospecimen_normal_control_read.txt	R
+nationwidechildrens.org_biospecimen_tumor_sample_read.txt	R
+nationwidechildrens.org_clinical_cqcf_read.txt	R
+nationwidechildrens.org_clinical_drug_read.txt	R
+nationwidechildrens.org_clinical_follow_up_v1.0_nte_read.txt	R
+nationwidechildrens.org_clinical_follow_up_v1.0_read.txt	R
+nationwidechildrens.org_clinical_patient_read.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

@@ -1,0 +1,26 @@
+CHANGES for revised archive nationwidechildrens.org_THCA.bio.Level_2.0.33.0 compared to archive nationwidechildrens.org_THCA.bio.Level_2.0.32.0
+
+This file was automatically generated on 06/19/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_clinical_cqcf_thca.txt	R
+nationwidechildrens.org_clinical_drug_thca.txt	R
+nationwidechildrens.org_clinical_follow_up_v2.0_nte_thca.txt	R
+nationwidechildrens.org_clinical_follow_up_v2.0_thca.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_nte_thca.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_thca.txt	R
+nationwidechildrens.org_clinical_omf_v4.0_thca.txt	R
+nationwidechildrens.org_clinical_patient_thca.txt	R
+nationwidechildrens.org_clinical_radiation_thca.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

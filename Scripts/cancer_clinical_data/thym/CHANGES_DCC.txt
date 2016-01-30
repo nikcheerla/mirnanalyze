@@ -1,0 +1,19 @@
+CHANGES for revised archive nationwidechildrens.org_THYM.bio.Level_2.0.13.0 compared to archive nationwidechildrens.org_THYM.bio.Level_2.0.12.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_thym.txt	R
+nationwidechildrens.org_clinical_patient_thym.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

@@ -1,0 +1,17 @@
+CHANGES for revised archive nationwidechildrens.org_UCS.bio.Level_2.0.32.0 compared to archive nationwidechildrens.org_UCS.bio.Level_2.0.31.0
+
+This file was automatically generated on 06/26/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document

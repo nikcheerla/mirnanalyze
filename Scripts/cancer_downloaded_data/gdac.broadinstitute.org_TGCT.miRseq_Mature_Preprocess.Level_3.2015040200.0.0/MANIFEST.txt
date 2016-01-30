@@ -1,0 +1,4 @@
+0606d65ad2786b64a329cd7269f345a8 TGCT.miRseq_mature_RPM_log2.txt
+7c897c2167f77748644493434066ae04 stdout.txt
+50e392e175d0a1d6ef89c9e81ae0559a TGCT.miRseq_mature_RPM.txt
+d41d8cd98f00b204e9800998ecf8427e stderr.txt

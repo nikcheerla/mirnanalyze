@@ -1,0 +1,23 @@
+CHANGES for revised archive nationwidechildrens.org_ESCA.bio.Level_2.0.42.0 compared to archive nationwidechildrens.org_ESCA.bio.Level_2.0.41.0
+
+This file was automatically generated on 06/19/15 using the TCGA DCC Archive Processing System.
+
+# key
+# +	added
+# -	removed
+# R	revised
+
+
+Files Revised
+MANIFEST.txt	R
+README_DCC.txt	R
+nationwidechildrens.org_clinical_cqcf_esca.txt	R
+nationwidechildrens.org_clinical_drug_esca.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_esca.txt	R
+nationwidechildrens.org_clinical_follow_up_v4.0_nte_esca.txt	R
+nationwidechildrens.org_clinical_patient_esca.txt	R
+nationwidechildrens.org_clinical_radiation_esca.txt	R
+CHANGES_DCC.txt	-
+
+
+#This is a tab-delimited document
