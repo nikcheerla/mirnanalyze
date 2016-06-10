@@ -1,3 +1,3 @@
-# cancer-solved
-# mirna analysis
-# mirnanalyze
+<p>We sought to improve the diagnosis and prognosis of 21 different types of cancers using cell-free miRNA. <a href = "http://www.medscape.com/viewarticle/740459">Cell-free miRNA</a> are a recently discovered type of genetic material whose expression levels can be measured with a blood test. We built different machine learning models based on tissue miRNA and cell-free miRNA that make it possible to both diagnose any cancer with a simple blood test, and recommend personalized treatment regimens tailored to a patients's miRNA profile. </p>
+
+<p>Work on this project was conducted with the mentorship of Dr. Olivier Geveart at the Stanford School of Medicine. If you are interested in using the web tool we developed, you can visit <a href="mirnanalyze.com">our website</a>. All data used is publicly available from The Cancer Genome Atlas (TCGA) and can be found on our project site.</p>
